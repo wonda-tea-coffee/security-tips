@@ -1,6 +1,7 @@
 # security-tips
 
 ## Web一般
+- [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
 - [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
 
 ## クラウド一般
@@ -76,6 +77,7 @@
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Webアプリケーション脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines)
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
+- [GitHub Advisory Database](https://github.com/advisories)
 
 ## 本
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
