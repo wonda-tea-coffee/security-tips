@@ -70,6 +70,8 @@
 - [dependency track](https://dependencytrack.org/)
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
 - [octovy](https://github.com/m-mizutani/octovy)
+- [snyk Advisor](https://snyk.io/advisor/)
+  - オープンソースプロジェクトのヘルススコアの算出
 
 ### rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
