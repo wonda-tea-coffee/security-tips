@@ -93,6 +93,9 @@
 - [Webアプリケーション脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines)
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 - [GitHub Advisory Database](https://github.com/advisories)
+- [Github Topics Code quality](https://github.com/topics/code-quality)
+- [Github Topics Dependency management](https://github.com/topics/dependency-management)
+- [Github Topics Security](https://github.com/topics/security)
 
 ## 本
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
