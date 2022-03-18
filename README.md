@@ -88,3 +88,6 @@
 - [脅威インテリジェンスの教科書](https://gihyo.jp/book/2022/978-4-297-12457-1)
 - [イラスト図解式 この一冊で全部わかるセキュリティの基本](https://www.amazon.co.jp/dp/B0756SS7N3/)
 - [カオスエンジニアリング入門](https://www.amazon.co.jp/dp/B09VMP3B69/)
+- [セキュリティエンジニアのための機械学習――AI技術によるサイバーセキュリティ対策入門](https://www.oreilly.co.jp/books/9784873119076/)
+- [実践 bashによるサイバーセキュリティ対策――セキュリティ技術者のためのシェルスクリプト活用術](https://www.oreilly.co.jp/books/9784873119052/)
+- [入門 監視――モダンなモニタリングのためのデザインパターン](https://www.oreilly.co.jp//books/9784873118642/index.html)
