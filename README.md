@@ -1,12 +1,22 @@
 # security-tips
 
 ## Web一般
+- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
+- [web.dev 安全とセキュリティ](https://web.dev/secure/)
 - [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
 - [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
+- [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 
 ## クラウド一般
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
 - [AWS Well-Architected フレームワーク](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/index.ja.html)
+
+## コンテナ
+- [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
+- [container-dev-security](https://speakerdeck.com/mochizuki875/container-dev-security)
+- [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
+- [コンテナのセキュリティを 中身から理解しよう](https://speakerdeck.com/udzura/inside-out-container-and-its-security)
+- [[AWS Black Belt Online Seminar] コンテナセキュリティ入門](https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-container-security-introduction/)
 
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
@@ -15,6 +25,9 @@
 ### XSS
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
+
+### drive-by attacks
+- [Why are developers so vulnerable to drive-by attacks?](https://about.gitlab.com/blog/2021/09/07/why-are-developers-vulnerable-to-driveby-attacks/)
 
 ## Github
 - [GitHubリポジトリにおけるレビュープロセスの統制](https://engineering.mercari.com/blog/entry/20211213-8f5f5a5aee/)
@@ -67,14 +80,16 @@
 - [IPAddress.com](https://www.ipaddress.com/)
 - [trickest/cve](https://github.com/trickest/cve)
 
-## 情報源
+## Rails
+- [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
+- [Deserialization on Rails](https://zenn.dev/ooooooo_q/books/rails_deserialize)
+- [How to hack with ransack](https://younes.codes/posts/how-to-hack-with-ransack)
+
+## その他情報源
 - [Flatt Security Blog](https://blog.flatt.tech/)
-- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
-- [web.dev 安全とセキュリティ](https://web.dev/secure/)
 - [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/entrylist/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
 - [徳丸浩の日記](https://blog.tokumaru.org/)
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
-- [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Webアプリケーション脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines)
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 - [GitHub Advisory Database](https://github.com/advisories)
