@@ -11,6 +11,7 @@
 - [GitHubリポジトリにおけるレビュープロセスの統制](https://engineering.mercari.com/blog/entry/20211213-8f5f5a5aee/)
 - [GitHubセキュリティ Organization運用のベストプラクティス](https://zenn.dev/tmknom/books/github-organization-security)
 - [Github Actions Security guides](https://docs.github.com/en/actions/security-guides)
+- [GitHubをorgレベルでセキュアに運用する設定](https://zenn.dev/tmknom/scraps/6974be5ba56332)
 
 ## CircleCI
 - [CircleCI Docs Security recommendations](https://circleci.com/docs/2.0/security-recommendations/)
