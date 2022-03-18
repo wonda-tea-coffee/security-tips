@@ -47,3 +47,4 @@
 - [Flatt Security Blog](https://blog.flatt.tech/)
 - [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
 - [web.dev 安全とセキュリティ](https://web.dev/secure/)
+- [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/entrylist/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
