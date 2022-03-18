@@ -5,6 +5,7 @@
 
 ## クラウド
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
+- [AWS Well-Architected フレームワーク](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/index.ja.html)
 
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
@@ -13,9 +14,6 @@
 ### XSS
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
-
-### DDoS
-- [DDoSに対するAWSのベストプラクティス](https://media.amazonwebservices.com/jp/DDoS%20White%20Paper_Revised.pdf)
 
 ## Github
 - [GitHubリポジトリにおけるレビュープロセスの統制](https://engineering.mercari.com/blog/entry/20211213-8f5f5a5aee/)
@@ -74,6 +72,7 @@
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Webアプリケーション脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines)
+- [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 
 ## 本
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
