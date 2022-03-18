@@ -14,3 +14,36 @@
 
 ## CircleCI
 - [CircleCI Docs Security recommendations](https://circleci.com/docs/2.0/security-recommendations/)
+
+## 静的解析
+### 一般
+- [CodeQL](https://codeql.github.com/)
+- [Semgrep](https://semgrep.dev/)
+- [horusec](https://github.com/ZupIT/horusec)
+- [Snyk Code](https://snyk.io/product/snyk-code/)
+
+### Ruby
+- [brakeman](https://github.com/presidentbeef/brakeman)
+
+### Go
+- [gosec](https://github.com/securego/gosec)
+
+### コンテナ
+- [Snyk Container](https://snyk.io/product/container-vulnerability-management/)
+
+### IaC
+- [Snyk Infrastructure as Code](https://snyk.io/product/infrastructure-as-code-security/)
+
+## 脆弱性管理
+- [vuls](https://github.com/future-architect/vuls)
+- [dependency track](https://dependencytrack.org/)
+- [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
+- [octovy](https://github.com/m-mizutani/octovy)
+
+### rubygems
+- [bundler-audit](https://github.com/rubysec/bundler-audit)
+
+## 情報源
+- [Flatt Security Blog](https://blog.flatt.tech/)
+- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
+- [web.dev 安全とセキュリティ](https://web.dev/secure/)
