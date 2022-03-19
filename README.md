@@ -70,8 +70,11 @@
 - [dependency track](https://dependencytrack.org/)
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
 - [octovy](https://github.com/m-mizutani/octovy)
+  - 脆弱性検出(trivy)、管理
 - [snyk Advisor](https://snyk.io/advisor/)
   - オープンソースプロジェクトのヘルススコアの算出
+- [Deadpendency](https://deadpendency.com/)
+  - オープンソースプロジェクトのヘルスチェック
 
 ### rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
@@ -89,7 +92,7 @@
 
 ## その他情報源
 - [Flatt Security Blog](https://blog.flatt.tech/)
-- [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/entrylist/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
+- [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/hotentry/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
 - [徳丸浩の日記](https://blog.tokumaru.org/)
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [Webアプリケーション脆弱性診断ガイドライン](https://github.com/WebAppPentestGuidelines/WebAppPentestGuidelines)
