@@ -90,6 +90,9 @@
 - [Deserialization on Rails](https://zenn.dev/ooooooo_q/books/rails_deserialize)
 - [How to hack with ransack](https://younes.codes/posts/how-to-hack-with-ransack)
 
+## リスク分析
+- [制御システムのセキュリティリスク分析ガイド](https://www.ipa.go.jp/security/controlsystem/riskanalysis.html)
+
 ## その他情報源
 - [Flatt Security Blog](https://blog.flatt.tech/)
 - [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/hotentry/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
