@@ -7,9 +7,13 @@
 - [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 
-## クラウド一般
+## クラウド
+### 一般
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
+
+### AWS
 - [AWS Well-Architected フレームワーク](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/index.ja.html)
+- [インターネットからのイングレストラフィックフローのためのファイアウォールのデプロイ設計](https://aws.amazon.com/jp/blogs/news/design-your-firewall-deployment-for-internet-ingress-traffic-flows/)
 
 ## コンテナ
 - [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
@@ -34,6 +38,7 @@
 - [GitHubセキュリティ Organization運用のベストプラクティス](https://zenn.dev/tmknom/books/github-organization-security)
 - [Github Actions Security guides](https://docs.github.com/en/actions/security-guides)
 - [GitHubをorgレベルでセキュアに運用する設定](https://zenn.dev/tmknom/scraps/6974be5ba56332)
+- [GitHub ActionsのTipsやベストプラクティスを淡々と記録する](https://zenn.dev/tmknom/scraps/f05911dad51689)
 
 ## 認証・認可
 - [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
