@@ -107,6 +107,7 @@
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 - [GitHub Advisory Database](https://github.com/advisories)
 - [Github Topics](https://github.com/topics)
+- [Github Marketplace](https://github.com/marketplace)
 
 ## 本
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
