@@ -89,6 +89,7 @@
 - [urlscan.io](https://urlscan.io/)
 - [IPAddress.com](https://www.ipaddress.com/)
 - [trickest/cve](https://github.com/trickest/cve)
+- [Reading RFCs for bug bounty hunters](https://edoverflow.com/2022/reading-rfcs-for-bug-bounty-hunters/)
 
 ## Rails
 - [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
