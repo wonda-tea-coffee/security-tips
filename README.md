@@ -30,6 +30,9 @@
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
 
+### SQL Injection
+- [SQL injection cheat sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+
 ### drive-by attacks
 - [Why are developers so vulnerable to drive-by attacks?](https://about.gitlab.com/blog/2021/09/07/why-are-developers-vulnerable-to-driveby-attacks/)
 
