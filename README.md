@@ -106,6 +106,10 @@
 ## リスク分析
 - [制御システムのセキュリティリスク分析ガイド](https://www.ipa.go.jp/security/controlsystem/riskanalysis.html)
 
+## 事例
+- [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
+- [プロダクトコードの静的解析にhorusecを入れた話](https://developers.freee.co.jp/entry/sast-in-product-code)
+
 ## その他情報源
 - [Flatt Security Blog](https://blog.flatt.tech/)
 - [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/hotentry/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
