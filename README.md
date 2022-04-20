@@ -110,6 +110,7 @@
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
 - [プロダクトコードの静的解析にhorusecを入れた話](https://developers.freee.co.jp/entry/sast-in-product-code)
 - [ゼロからメルペイのリアルタイム不正検知システムを作る話](https://engineering.mercari.com/blog/entry/20220419-14cfb92734/)
+- [ZOZOにおけるID基盤のk8sへのリプレイスとセキュリティの取り組み](https://speakerdeck.com/kameikki/authentication-service-replacement-and-security-efforts-of-zozotown-cndt2020)
 
 ## その他情報源
 - [Flatt Security Blog](https://blog.flatt.tech/)
