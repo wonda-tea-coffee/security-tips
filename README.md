@@ -145,3 +145,5 @@
 - [ ] [実践 bashによるサイバーセキュリティ対策――セキュリティ技術者のためのシェルスクリプト活用術](https://www.oreilly.co.jp/books/9784873119052/)
 - [x] [入門 監視――モダンなモニタリングのためのデザインパターン](https://www.oreilly.co.jp//books/9784873118642/index.html)
 - [ ] [DevOpsSec](https://www.oreilly.com/library/view/devopssec/9781491971413/)
+- [ ] [サイバーセキュリティプログラミング](https://www.oreilly.co.jp/books/9784873119731/)
+- [ ] [はじめて学ぶバイナリ解析](https://www.amazon.co.jp/dp/B084R85269)
