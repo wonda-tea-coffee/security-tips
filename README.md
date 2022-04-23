@@ -50,7 +50,6 @@
 - [GitHub EnterpriseのOrganization管理　ベストプラクティス　[GitHub Enterprise管理者向け]](https://github.blog/jp/2022-04-05-github-enterprise-organization-best-practice/)
 
 ## 認証・認可
-- [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
 
 ## CircleCI
@@ -147,3 +146,4 @@
 - [ ] [DevOpsSec](https://www.oreilly.com/library/view/devopssec/9781491971413/)
 - [ ] [サイバーセキュリティプログラミング](https://www.oreilly.co.jp/books/9784873119731/)
 - [ ] [はじめて学ぶバイナリ解析](https://www.amazon.co.jp/dp/B084R85269)
+- [ ] [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
