@@ -8,6 +8,9 @@
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
 
+## ブラウザ
+- [電子情報学特論：Chromiumのアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o)
+
 ## プロトコル
 - [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
