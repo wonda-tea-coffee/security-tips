@@ -94,6 +94,7 @@
   - オープンソースプロジェクトのヘルススコアの算出
 - [Deadpendency](https://deadpendency.com/)
   - オープンソースプロジェクトのヘルスチェック
+- [Socket](https://socket.dev/)
 
 ### rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
