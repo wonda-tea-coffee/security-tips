@@ -88,6 +88,9 @@
 - [Snyk Infrastructure as Code](https://snyk.io/product/infrastructure-as-code-security/)
 
 ## Supply Chain
+### Method
+- [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
+
 ### Tool
 - [trivy](https://github.com/aquasecurity/trivy)
 - [vuls](https://github.com/future-architect/vuls)
