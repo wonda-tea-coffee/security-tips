@@ -1,6 +1,6 @@
 # security-tips
 
-## Web一般
+## Web
 - [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
 - [web.dev 安全とセキュリティ](https://web.dev/secure/)
 - [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
@@ -8,15 +8,15 @@
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
 
-## ブラウザ
+## Browser
 - [電子情報学特論：Chromiumのアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o)
 
-## プロトコル
+## Protocol
 - [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 
-## クラウド
-### 一般
+## Cloud
+### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
 
 ### AWS
@@ -24,7 +24,7 @@
 - [インターネットからのイングレストラフィックフローのためのファイアウォールのデプロイ設計](https://aws.amazon.com/jp/blogs/news/design-your-firewall-deployment-for-internet-ingress-traffic-flows/)
 - [AWS全体のセキュリティ管理と快適なセキュリティ運用](https://speakerdeck.com/cmusudakeisuke/awsquan-ti-falsesekiyuriteiguan-li-tokuai-shi-nasekiyuriteiyun-yong)
 
-## コンテナ
+## Container
 - [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
 - [container-dev-security](https://speakerdeck.com/mochizuki875/container-dev-security)
 - [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
@@ -34,7 +34,7 @@
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 
-## 脅威別
+## Threat
 ### XSS
 - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
@@ -58,7 +58,7 @@
 - [GitHub EnterpriseのOrganizationに関するガイド　[GitHub Enterprise管理者向け]](https://github.blog/jp/2022-04-05-ghe-organization-guide/)
 - [GitHub EnterpriseのOrganization管理　ベストプラクティス　[GitHub Enterprise管理者向け]](https://github.blog/jp/2022-04-05-github-enterprise-organization-best-practice/)
 
-## 認証・認可
+## Authentication / Authorization
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
 
 ## CircleCI
@@ -67,8 +67,8 @@
 ## OPA/Rego
 - [OPA/Rego入門](https://zenn.dev/mizutani/books/d2f1440cfbba94)
 
-## 静的解析
-### 一般
+## Static Analysis
+### General
 - [CodeQL](https://codeql.github.com/)
 - [Semgrep](https://semgrep.dev/)
 - [horusec](https://github.com/ZupIT/horusec)
@@ -81,13 +81,14 @@
 ### Go
 - [gosec](https://github.com/securego/gosec)
 
-### コンテナ
+### Container
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/)
 
 ### IaC
 - [Snyk Infrastructure as Code](https://snyk.io/product/infrastructure-as-code-security/)
 
-## 依存関係の脆弱性検出・管理
+## Supply Chain
+### Tool
 - [trivy](https://github.com/aquasecurity/trivy)
 - [vuls](https://github.com/future-architect/vuls)
 - [dependency track](https://dependencytrack.org/)
@@ -103,7 +104,7 @@
 ### rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
 
-## バグバウンティ
+## Bug Bounty
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [urlscan.io](https://urlscan.io/)
 - [IPAddress.com](https://www.ipaddress.com/)
@@ -115,16 +116,16 @@
 - [Deserialization on Rails](https://zenn.dev/ooooooo_q/books/rails_deserialize)
 - [How to hack with ransack](https://younes.codes/posts/how-to-hack-with-ransack)
 
-## リスク分析
+## Risk Analysis
 - [制御システムのセキュリティリスク分析ガイド](https://www.ipa.go.jp/security/controlsystem/riskanalysis.html)
 
-## 事例
+## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
 - [プロダクトコードの静的解析にhorusecを入れた話](https://developers.freee.co.jp/entry/sast-in-product-code)
 - [ゼロからメルペイのリアルタイム不正検知システムを作る話](https://engineering.mercari.com/blog/entry/20220419-14cfb92734/)
 - [ZOZOにおけるID基盤のk8sへのリプレイスとセキュリティの取り組み](https://speakerdeck.com/kameikki/authentication-service-replacement-and-security-efforts-of-zozotown-cndt2020)
 
-## その他情報源
+## Other
 - [Flatt Security Blog](https://blog.flatt.tech/)
 - [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/hotentry/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
 - [徳丸浩の日記](https://blog.tokumaru.org/)
@@ -136,7 +137,7 @@
 - [Github Topics](https://github.com/topics)
 - [Github Marketplace](https://github.com/marketplace)
 
-## 本
+## Book
 - [x] [安全なWebアプリケーションの作り方](https://wasbook.org/)
 - [x] [Webブラウザセキュリティ ― Webアプリケーションの安全性を支える仕組みを整理する](https://www.lambdanote.com/products/wbs)
 - [x] [マスタリングTCP/IP 情報セキュリティ編](https://www.ohmsha.co.jp/book/9784274069215/)
