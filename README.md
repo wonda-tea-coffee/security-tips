@@ -57,6 +57,7 @@
 - [GitHub ActionsのTipsやベストプラクティスを淡々と記録する](https://zenn.dev/tmknom/scraps/f05911dad51689)
 - [GitHub EnterpriseのOrganizationに関するガイド　[GitHub Enterprise管理者向け]](https://github.blog/jp/2022-04-05-ghe-organization-guide/)
 - [GitHub EnterpriseのOrganization管理　ベストプラクティス　[GitHub Enterprise管理者向け]](https://github.blog/jp/2022-04-05-github-enterprise-organization-best-practice/)
+- [GitHub Organizationの安全な運用とモニタリングに関するスライド（全44ページ）を公開しました](https://blog.flatt.tech/entry/github-organization-best-practices)
 
 ## Authentication / Authorization
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
