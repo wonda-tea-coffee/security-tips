@@ -105,6 +105,8 @@
 - [Deadpendency](https://deadpendency.com/)
   - オープンソースプロジェクトのヘルスチェック
 - [Socket](https://socket.dev/)
+- [Shisho](https://shisho.dev/jp)
+  - 有償
 
 ### rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
