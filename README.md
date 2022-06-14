@@ -108,7 +108,7 @@
 - [Shisho](https://shisho.dev/jp)
   - 有償
 - [skipfish](https://code.google.com/archive/p/skipfish/)
-  - DAST
+  - DASTツール
 
 ### rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
