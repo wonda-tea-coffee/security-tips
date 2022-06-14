@@ -107,6 +107,8 @@
 - [Socket](https://socket.dev/)
 - [Shisho](https://shisho.dev/jp)
   - 有償
+- [skipfish](https://code.google.com/archive/p/skipfish/)
+  - DAST
 
 ### rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
