@@ -26,6 +26,7 @@
 - [AWS Lambdaにおけるセキュリティリスクと対策](https://speakerdeck.com/scgajge12/aws-lambdaniokerusekiyuriteirisukutodui-ce)
 - [AWS Security Blog](https://aws.amazon.com/jp/blogs/security/)
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
+- [AWS Security Maturity Model](AWS Security Maturity Model)
 
 ## Container
 - [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
@@ -33,6 +34,9 @@
 - [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
 - [コンテナのセキュリティを 中身から理解しよう](https://speakerdeck.com/udzura/inside-out-container-and-its-security)
 - [[AWS Black Belt Online Seminar] コンテナセキュリティ入門](https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-container-security-introduction/)
+
+## Serverless
+- [Security reference architecture for a serverless application](https://anunay-bhatt.medium.com/security-reference-architecture-for-a-serverless-application-2fcd25b1d5e2)
 
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
