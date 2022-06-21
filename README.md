@@ -36,6 +36,9 @@
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 
 ## Threat
+### Account Takeover
+- [Hackers can take over accounts you haven’t even created yet](https://blog.malwarebytes.com/hacking-2/2022/06/hackers-can-take-over-accounts-you-havent-even-created-yet/)
+
 ### XSS
 - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
