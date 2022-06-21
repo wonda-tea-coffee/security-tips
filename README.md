@@ -25,6 +25,7 @@
 - [AWS全体のセキュリティ管理と快適なセキュリティ運用](https://speakerdeck.com/cmusudakeisuke/awsquan-ti-falsesekiyuriteiguan-li-tokuai-shi-nasekiyuriteiyun-yong)
 - [AWS Lambdaにおけるセキュリティリスクと対策](https://speakerdeck.com/scgajge12/aws-lambdaniokerusekiyuriteirisukutodui-ce)
 - [AWS Security Blog](https://aws.amazon.com/jp/blogs/security/)
+- [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 
 ## Container
 - [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
