@@ -24,6 +24,7 @@
 - [インターネットからのイングレストラフィックフローのためのファイアウォールのデプロイ設計](https://aws.amazon.com/jp/blogs/news/design-your-firewall-deployment-for-internet-ingress-traffic-flows/)
 - [AWS全体のセキュリティ管理と快適なセキュリティ運用](https://speakerdeck.com/cmusudakeisuke/awsquan-ti-falsesekiyuriteiguan-li-tokuai-shi-nasekiyuriteiyun-yong)
 - [AWS Lambdaにおけるセキュリティリスクと対策](https://speakerdeck.com/scgajge12/aws-lambdaniokerusekiyuriteirisukutodui-ce)
+- [AWS Security Blog](https://aws.amazon.com/jp/blogs/security/)
 
 ## Container
 - [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
