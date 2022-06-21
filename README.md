@@ -1,7 +1,7 @@
 # security-tips
 
 ## Web
-- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
+- [Swigger Web Secrity Academy](https://portswigger.net/web-security)
 - [web.dev 安全とセキュリティ](https://web.dev/secure/)
 - [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
 - [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
@@ -149,6 +149,10 @@
 - [GitHub Advisory Database](https://github.com/advisories)
 - [Github Topics](https://github.com/topics)
 - [Github Marketplace](https://github.com/marketplace)
+- [tl;dr sec](https://tldrsec.com/blog/)
+
+## Study Resource
+- [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
 
 ## Book
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
