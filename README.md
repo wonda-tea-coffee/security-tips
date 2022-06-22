@@ -54,7 +54,7 @@
 - [AWS Lambdaにおけるセキュリティリスクと対策](https://speakerdeck.com/scgajge12/aws-lambdaniokerusekiyuriteirisukutodui-ce)
 - [AWS Security Blog](https://aws.amazon.com/jp/blogs/security/)
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
-- [AWS Security Maturity Model](AWS Security Maturity Model)
+- [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
