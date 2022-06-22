@@ -101,6 +101,10 @@
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 
+## Job
+- [freee](https://jobs.freee.co.jp/#job_list)
+- [mercari](https://apply.workable.com/mercari/)
+
 ## OPA/Rego
 - [OPA/Rego入門](https://zenn.dev/mizutani/books/d2f1440cfbba94)
 
@@ -127,6 +131,7 @@
 - [GitHub Advisory Database](https://github.com/advisories)
 - [Github Topics](https://github.com/topics)
 - [Github Marketplace](https://github.com/marketplace)
+- [The Github Blog](https://github.blog/category/security/)
 - [tl;dr sec](https://tldrsec.com/blog/)
 - [NahamCon2022](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo)
 
