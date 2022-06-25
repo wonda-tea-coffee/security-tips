@@ -184,10 +184,9 @@
 - [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
 
 ## Supply Chain
-### General
 - [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
 
-### Tool
+## Tool
 - [trivy](https://github.com/aquasecurity/trivy)
 - [vuls](https://github.com/future-architect/vuls)
 - [dependency track](https://dependencytrack.org/)
@@ -201,6 +200,8 @@
 - [Shisho](https://shisho.dev/jp)
   - 有償
 - [Socket](https://socket.dev/)
+- [GitGuardian](https://www.gitguardian.com/)
+  - シークレットスキャン
 
 ### Rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
