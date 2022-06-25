@@ -188,6 +188,7 @@
 
 ## Tool
 - [trivy](https://github.com/aquasecurity/trivy)
+  - [コンテナ／Kubernetesの脆弱性、機密情報、設定間違いが分かるOSS「Trivy」徹底解説～もうイメージスキャンだけとは言わせない](https://atmarkit.itmedia.co.jp/ait/articles/2206/24/news011.html)
 - [vuls](https://github.com/future-architect/vuls)
 - [dependency track](https://dependencytrack.org/)
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
