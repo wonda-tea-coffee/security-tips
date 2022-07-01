@@ -75,6 +75,10 @@
 ### Kubernetes
 - [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
 
+## Curation List
+- [Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security)
+- [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
+
 ## DAST
 ### General
 - [skipfish](https://code.google.com/archive/p/skipfish/)
@@ -83,6 +87,10 @@
 
 ### Fuzzing
 - [t-reqs](https://github.com/bahruzjabiyev/t-reqs)
+
+## DATABASE
+### MySQL
+- [MySQLのデータ暗号化いろいろ](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174)
 
 ## Github
 - [GitHubリポジトリにおけるレビュープロセスの統制](https://engineering.mercari.com/blog/entry/20211213-8f5f5a5aee/)
@@ -95,10 +103,6 @@
 - [GitHub Organizationの安全な運用とモニタリングに関するスライド（全44ページ）を公開しました](https://blog.flatt.tech/entry/github-organization-best-practices)
 - [GitHub Actions Workflow チェックリスト](https://developers.cyberagent.co.jp/blog/archives/36423/)
 
-## Curation List
-- [Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security)
-- [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
-
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 
@@ -108,6 +112,9 @@
 
 ## OPA/Rego
 - [OPA/Rego入門](https://zenn.dev/mizutani/books/d2f1440cfbba94)
+
+## Perspective
+- [「仕様の脆弱性」まとめブログ用のチェックシート](https://github.com/flatt-security/blog-specification-vlunerabilities-check-sheet)
 
 ## Protocol
 - [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
