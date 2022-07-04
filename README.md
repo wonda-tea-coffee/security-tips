@@ -85,6 +85,9 @@
 - [Burp Scanner](https://portswigger.net/burp/vulnerability-scanner)
 - [OWASP ZAP](https://www.zaproxy.org/)
 
+## English
+- [セキュリティエンジニアのための English Reading](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/english-reading.html)
+
 ### Fuzzing
 - [t-reqs](https://github.com/bahruzjabiyev/t-reqs)
 
