@@ -85,6 +85,9 @@
 - [Burp Scanner](https://portswigger.net/burp/vulnerability-scanner)
 - [OWASP ZAP](https://www.zaproxy.org/)
 
+## Encryption
+- [暗号鍵設定ガイダンス～暗号鍵の鍵長選択方法と運用方法～](https://www.ipa.go.jp/security/vuln/ckms_setting.html)
+
 ## English
 - [セキュリティエンジニアのための English Reading](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/english-reading.html)
 
