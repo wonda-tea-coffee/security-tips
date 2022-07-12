@@ -237,3 +237,6 @@
 - [セキュリティ研修【ミクシィ22新卒技術研修】](https://speakerdeck.com/mixi_engineers/2022-security-training)
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
+
+## Zero Trust
+- [ゼロトラスト移行のすゝめ](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/zero-trust-mgn.html)
