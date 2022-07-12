@@ -43,7 +43,10 @@
 - [メルカリ エンジニアリングブログ](https://engineering.mercari.com/blog/category/security/)
 - [入社4日目のAWS専任者が挑むセキュリティの向上 “土地勘”がないからこそ選んだ「OODAループ」という考え方](https://logmi.jp/tech/articles/326764)
 
-## CircleCI
+## CI/CD
+- [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
+
+### CircleCI
 - [CircleCI Docs Security recommendations](https://circleci.com/docs/2.0/security-recommendations/)
 
 ## Cloud
