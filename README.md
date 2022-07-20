@@ -24,6 +24,7 @@
 - [サイバーセキュリティプログラミング](https://www.oreilly.co.jp/books/9784873119731/)
 - [はじめて学ぶバイナリ解析](https://www.amazon.co.jp/dp/B084R85269)
 - [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
+- [クラウド破産を回避する AWS実践ガイド](https://booth.pm/ja/items/1994587)
 
 ## Browser
 - [電子情報学特論：Chromiumのアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o)
