@@ -78,6 +78,7 @@
 
 ### Kubernetes
 - [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
+- [サイバー攻撃から Kubernetes クラスタを守るための効果的なセキュリティ対策](https://speakerdeck.com/kyohmizu/saibagong-ji-kara-kubernetes-kurasutawoshou-rutamefalsexiao-guo-de-nasekiyuriteidui-ce)
 
 ## Curation List
 - [Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security)
