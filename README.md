@@ -46,6 +46,7 @@
 
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
+- [Ratchet](https://github.com/sethvargo/ratchet)
 
 ### CircleCI
 - [CircleCI Docs Security recommendations](https://circleci.com/docs/2.0/security-recommendations/)
