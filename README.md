@@ -232,6 +232,8 @@
   - シークレットスキャン
 - [gitleaks](https://github.com/zricethezav/gitleaks)
 - [Monad](https://www.monad.security/)
+- [Aeyescan](https://www.aeyescan.jp/)
+- [OWASP ZAP](https://www.zaproxy.org/)
 
 ### Rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
