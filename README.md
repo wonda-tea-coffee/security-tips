@@ -64,6 +64,7 @@
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
 - [Cloud Risk Encyclopedia](https://orca.security/resources/cloud-risk-encyclopedia/)
+- [The Open Cloud Vulnerability & Security Issue Database](https://www.cloudvulndb.org/)
 
 ### Serverless
 - [Security reference architecture for a serverless application](https://anunay-bhatt.medium.com/security-reference-architecture-for-a-serverless-application-2fcd25b1d5e2)
