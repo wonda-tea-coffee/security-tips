@@ -258,3 +258,4 @@
 
 ## Zero Trust
 - [ゼロトラスト移行のすゝめ](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/zero-trust-mgn.html)
+- [ゼロトラストセキュリティ入門](https://www.nri-secure.co.jp/download/zerotrust-security)
