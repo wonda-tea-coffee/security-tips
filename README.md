@@ -63,6 +63,7 @@
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
+- [Cloud Risk Encyclopedia](https://orca.security/resources/cloud-risk-encyclopedia/)
 
 ### Serverless
 - [Security reference architecture for a serverless application](https://anunay-bhatt.medium.com/security-reference-architecture-for-a-serverless-application-2fcd25b1d5e2)
@@ -224,6 +225,7 @@
 - [Socket](https://socket.dev/)
 - [GitGuardian](https://www.gitguardian.com/)
   - シークレットスキャン
+- [gitleaks](https://github.com/zricethezav/gitleaks)
 - [Monad](https://www.monad.security/)
 
 ### Rubygems
