@@ -224,6 +224,7 @@
 - [Socket](https://socket.dev/)
 - [GitGuardian](https://www.gitguardian.com/)
   - シークレットスキャン
+- [Monad](https://www.monad.security/)
 
 ### Rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
