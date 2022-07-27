@@ -234,6 +234,7 @@
 - [Monad](https://www.monad.security/)
 - [Aeyescan](https://www.aeyescan.jp/)
 - [OWASP ZAP](https://www.zaproxy.org/)
+- [OSS Insight Security Tool - Ranking](https://ossinsight.io/collections/security-tool/)
 
 ### Rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
