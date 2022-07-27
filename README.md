@@ -82,6 +82,7 @@
 - [[AWS Black Belt Online Seminar] コンテナセキュリティ入門](https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-container-security-introduction/)
 - [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
 - [container-dev-security](https://speakerdeck.com/mochizuki875/container-dev-security)
+- [OSSで始めるコンテナセキュリティ](https://dev.classmethod.jp/articles/developersio-2022-container-security-with-oss-tools/)
 
 ### Kubernetes
 - [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
