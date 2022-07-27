@@ -188,6 +188,9 @@
 ### Account Takeover
 - [Hackers can take over accounts you haven’t even created yet](https://blog.malwarebytes.com/hacking-2/2022/06/hackers-can-take-over-accounts-you-havent-even-created-yet/)
 
+### Buffer Overflow
+- [Buffer overflow attacks in C++: A hands-on guide](https://snyk.io/blog/buffer-overflow-attacks-in-c/)
+
 ### CSRF
 - [検出例から学ぶクロスサイトリクエストフォージェリ](https://www.mbsd.jp/research/20220617/blog/)
 
