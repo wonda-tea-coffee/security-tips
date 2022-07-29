@@ -239,6 +239,7 @@
 - [Aeyescan](https://www.aeyescan.jp/)
 - [OWASP ZAP](https://www.zaproxy.org/)
 - [OSS Insight Security Tool - Ranking](https://ossinsight.io/collections/security-tool/)
+- [GitHub Workflow Auditor](https://github.com/tindersec/gh-workflow-auditor)
 
 ### Rubygems
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
