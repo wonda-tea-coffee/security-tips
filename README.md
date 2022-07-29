@@ -121,6 +121,9 @@
 - [GitHub EnterpriseのOrganization管理　ベストプラクティス　[GitHub Enterprise管理者向け]](https://github.blog/jp/2022-04-05-github-enterprise-organization-best-practice/)
 - [GitHub Organizationの安全な運用とモニタリングに関するスライド（全44ページ）を公開しました](https://blog.flatt.tech/entry/github-organization-best-practices)
 - [GitHub Actions Workflow チェックリスト](https://developers.cyberagent.co.jp/blog/archives/36423/)
+- [Keeping your GitHub Actions and workflows secure Part 1: Preventing pwn requests](https://securitylab.github.com/research/github-actions-preventing-pwn-requests/)
+- [Keeping your GitHub Actions and workflows secure Part 2: Untrusted input](https://securitylab.github.com/research/github-actions-untrusted-input/)
+- [Keeping your GitHub Actions and workflows secure Part 3: How to trust your building blocks](https://securitylab.github.com/research/github-actions-building-blocks/)
 
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
