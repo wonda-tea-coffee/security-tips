@@ -40,6 +40,11 @@
 - [trickest/cve](https://github.com/trickest/cve)
 - [Reading RFCs for bug bounty hunters](https://edoverflow.com/2022/reading-rfcs-for-bug-bounty-hunters/)
 
+## Bug Hunting
+- [grep.app](https://grep.app/)
+- [Github Code Search](https://cs.github.com/)
+- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
 - [プロダクトコードの静的解析にhorusecを入れた話](https://developers.freee.co.jp/entry/sast-in-product-code)
