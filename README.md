@@ -221,31 +221,44 @@
 - [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
 
 ## Tool
+### Dependency
+- [octovy](https://github.com/m-mizutani/octovy)
+  - scanner(trivy)
 - [trivy](https://github.com/aquasecurity/trivy)
   - [コンテナ／Kubernetesの脆弱性、機密情報、設定間違いが分かるOSS「Trivy」徹底解説～もうイメージスキャンだけとは言わせない](https://atmarkit.itmedia.co.jp/ait/articles/2206/24/news011.html)
 - [vuls](https://github.com/future-architect/vuls)
 - [dependency track](https://dependencytrack.org/)
-- [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
-- [octovy](https://github.com/m-mizutani/octovy)
-  - 脆弱性検出(trivy)、管理
+- [bundler-audit](https://github.com/rubysec/bundler-audit)
+  - rubygems
+
+### Open Source Health Check
 - [snyk Advisor](https://snyk.io/advisor/)
-  - オープンソースプロジェクトのヘルススコアの算出
 - [Deadpendency](https://deadpendency.com/)
-  - オープンソースプロジェクトのヘルスチェック
-- [Shisho](https://shisho.dev/jp)
-  - 有償
 - [Socket](https://socket.dev/)
-- [GitGuardian](https://www.gitguardian.com/)
-  - シークレットスキャン
-- [gitleaks](https://github.com/zricethezav/gitleaks)
-- [Monad](https://www.monad.security/)
-- [Aeyescan](https://www.aeyescan.jp/)
-- [OWASP ZAP](https://www.zaproxy.org/)
-- [OSS Insight Security Tool - Ranking](https://ossinsight.io/collections/security-tool/)
+
+### SAST
 - [GitHub Workflow Auditor](https://github.com/tindersec/gh-workflow-auditor)
 
-### Rubygems
-- [bundler-audit](https://github.com/rubysec/bundler-audit)
+### DAST
+- [OWASP ZAP](https://www.zaproxy.org/)
+- [Aeyescan](https://www.aeyescan.jp/)
+
+### Secret Scan
+- [GitGuardian](https://www.gitguardian.com/)
+- [gitleaks](https://github.com/zricethezav/gitleaks)
+
+### SBOM
+- [SBOM Tool](https://github.com/microsoft/sbom-tool)
+
+### Multiple Feature
+- [Shisho](https://shisho.dev/)
+- [Snyk](https://snyk.io/)
+
+### Find more
+- [OSS Insight Security Tool - Ranking](https://ossinsight.io/collections/security-tool/)
+
+### Other
+- [Monad](https://www.monad.security/)
 
 ## Vulnerable App
 - [DVWS](https://github.com/interference-security/DVWS)
