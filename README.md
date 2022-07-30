@@ -222,6 +222,7 @@
 
 ## Study Resource
 - [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
+- [Your Guide to Starting an Application Security Career](https://betterappsec.com/your-guide-to-starting-an-application-security-career-1bb04dab7892)
 
 ## Supply Chain
 - [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
