@@ -69,6 +69,7 @@
 - [AWS Security Blog](https://aws.amazon.com/jp/blogs/security/)
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 - [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/)
+- [AWS WAFを完全に理解する ~WAFの基礎からv2の変更点まで~](https://dev.classmethod.jp/articles/fully-understood-aws-waf-v2/)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
@@ -219,6 +220,9 @@
 - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
+
+## SSL / TLS
+- [TLS, HTTP/2演習](https://www.slideshare.net/shigeki_ohtsu/tls-http2)
 
 ## Study Resource
 - [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
