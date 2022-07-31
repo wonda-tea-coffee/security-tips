@@ -269,6 +269,7 @@
 - [SBOM Tool](https://github.com/microsoft/sbom-tool)
 
 ### Multiple Feature
+- [Detectify](https://detectify.com/)
 - [Shisho](https://shisho.dev/)
 - [Snyk](https://snyk.io/)
 
