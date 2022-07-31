@@ -60,6 +60,7 @@
 
 ### CircleCI
 - [CircleCI Docs Security recommendations](https://circleci.com/docs/2.0/security-recommendations/)
+- [DevSecOps and CircleCI orbs: secure your CI/CD pipeline](https://circleci.com/blog/devsecops-and-circleci-orbs-security-focused-ci-cd-best-practices/)
 
 ## Cloud
 ### AWS
