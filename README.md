@@ -45,6 +45,7 @@
 - [grep.app](https://grep.app/)
 - [Github Code Search](https://cs.github.com/)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+- [AttackerKB](https://attackerkb.com/topics)
 
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
