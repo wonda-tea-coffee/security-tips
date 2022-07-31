@@ -2,6 +2,7 @@
 
 ## Authentication / Authorization
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
+- [OAuth 2.0 Security Best Current Practice draft-ietf-oauth-security-topics-19](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-19#section-4.2.4)
 
 ## Book
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
@@ -230,6 +231,7 @@
 
 ## Supply Chain
 - [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
+- [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
 
 ## Tool
 ### Dependency
@@ -241,6 +243,9 @@
 - [dependency track](https://dependencytrack.org/)
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
   - rubygems
+
+### Docker
+- [Docker Bench for Security](https://github.com/docker/docker-bench-security)
 
 ### Open Source Health Check
 - [snyk Advisor](https://snyk.io/advisor/)
