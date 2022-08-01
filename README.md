@@ -54,6 +54,7 @@
 - [GitHub API を使ったリポジトリの監査を始めました](https://tech.techtouch.jp/entry/github_audit_branch_with_api)
 - [メルカリ エンジニアリングブログ](https://engineering.mercari.com/blog/category/security/)
 - [入社4日目のAWS専任者が挑むセキュリティの向上 “土地勘”がないからこそ選んだ「OODAループ」という考え方](https://logmi.jp/tech/articles/326764)
+- [How Flipkart Reacts to Security Vulnerabilities](https://blog.flipkart.tech/how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e)
 
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
@@ -74,6 +75,7 @@
 - [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/)
 - [AWS WAFを完全に理解する ~WAFの基礎からv2の変更点まで~](https://dev.classmethod.jp/articles/fully-understood-aws-waf-v2/)
 - [[目指せ上級者] 最強にセキュアなAWSアカウントの作り方](https://dev.classmethod.jp/articles/devio-2022-how2make-strongest-aws-secure-accounts/)
+- [CloudGoat ](https://github.com/RhinoSecurityLabs/cloudgoat)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
@@ -138,9 +140,12 @@
 - [Keeping your GitHub Actions and workflows secure Part 1: Preventing pwn requests](https://securitylab.github.com/research/github-actions-preventing-pwn-requests/)
 - [Keeping your GitHub Actions and workflows secure Part 2: Untrusted input](https://securitylab.github.com/research/github-actions-untrusted-input/)
 - [Keeping your GitHub Actions and workflows secure Part 3: How to trust your building blocks](https://securitylab.github.com/research/github-actions-building-blocks/)
+- [GitGoat](https://github.com/arnica-ext/GitGoat)
+- [How to protect yourself against GitHub/OAuth Apps Supply Chain Attacks](https://www.arnica.io/blog/how-to-protect-yourself-against-github-oauth-apps-supply-chain-attacks)
 
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
+- [Securely embed content on your site](https://developer.chrome.com/en/blog/embed-content/)
 
 ## Job
 - [freee](https://jobs.freee.co.jp/#job_list)
@@ -156,10 +161,11 @@
 - [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 
-## Rails
+## Ruby / Rails
 - [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
 - [Deserialization on Rails](https://zenn.dev/ooooooo_q/books/rails_deserialize)
 - [How to hack with ransack](https://younes.codes/posts/how-to-hack-with-ransack)
+- [Round Two: An Updated Universal Deserialisation Gadget for Ruby 2.x-3.x](https://devcraft.io/2022/04/04/universal-deserialisation-gadget-for-ruby-2-x-3-x.html)
 
 ## Risk Analysis
 - [制御システムのセキュリティリスク分析ガイド](https://www.ipa.go.jp/security/controlsystem/riskanalysis.html)
@@ -179,6 +185,7 @@
 - [The Github Blog](https://github.blog/category/security/)
 - [tl;dr sec](https://tldrsec.com/blog/)
 - [NahamCon2022](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo)
+- [arrinca](https://www.arnica.io/blog)
 
 ## Static Analysis
 ### Container
