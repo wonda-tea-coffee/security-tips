@@ -107,7 +107,10 @@
 ### General
 - [skipfish](https://code.google.com/archive/p/skipfish/)
 - [Burp Scanner](https://portswigger.net/burp/vulnerability-scanner)
-- [OWASP ZAP](https://www.zaproxy.org/)
+- [OWASP ZAP](https://www.zaproxy.org/) 
+
+## eBPF
+- [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
 
 ## Encryption
 - [暗号鍵設定ガイダンス～暗号鍵の鍵長選択方法と運用方法～](https://www.ipa.go.jp/security/vuln/ckms_setting.html)
@@ -197,6 +200,9 @@
 
 ### Ruby
 - [brakeman](https://github.com/presidentbeef/brakeman)
+
+### Theory
+- [プログラム解析入門、もしくはC/C++を安全に書くのが難しすぎる話](https://docs.google.com/presentation/d/1WHmCLeC5ZPiq2MBOQaZc-pNVWaJanx8eXAkViGl2zws/mobilepresent?slide=id.p)
 
 ## Threat
 ### Account Takeover
