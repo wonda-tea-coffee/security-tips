@@ -254,8 +254,15 @@
 - [Your Guide to Starting an Application Security Career](https://betterappsec.com/your-guide-to-starting-an-application-security-career-1bb04dab7892)
 
 ## Supply Chain
-- [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
+### SLSA
+- [How to SLSA Part 1 - The Basics](https://security.googleblog.com/2022/04/how-to-slsa-part-1-basics.html)
+- [How to SLSA Part 2 - The Details](https://security.googleblog.com/2022/04/how-to-slsa-part-2-details.html)
+- [How to SLSA Part 3 - Putting it all together](https://security.googleblog.com/2022/04/how-to-slsa-part-3-putting-it-all.html)
+- [https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html](Introducing SLSA, an End-to-End Framework for Supply Chain Integrity)
 - [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
+
+### Uncategorized
+- [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
 
 ## Tool
 ### Dependency
