@@ -105,6 +105,10 @@
 - [Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security)
 - [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
 
+## Datadog
+- [Accelerate incident investigations with Log Anomaly Detection](https://www.datadoghq.com/ja/blog/accelerate-incident-investigations-with-log-anomaly-detection/)
+- [Detect cryptocurrency mining in your environment with Datadog Cloud SIEM](https://www.datadoghq.com/ja/blog/cryptomining-detection-rule/)
+
 ## DAST
 ### General
 - [skipfish](https://code.google.com/archive/p/skipfish/)
@@ -150,6 +154,9 @@
 ## Job
 - [freee](https://jobs.freee.co.jp/#job_list)
 - [mercari](https://apply.workable.com/mercari/)
+
+## Log Management
+- [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
 
 ## OPA/Rego
 - [OPA/Rego入門](https://zenn.dev/mizutani/books/d2f1440cfbba94)
