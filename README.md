@@ -322,6 +322,13 @@
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
 
+### HTTP
+- [HTTP/3入門 進化するHTTPの歩み](https://gihyo.jp/admin/serial/01/http3/0001?summary)
+- [HTTP/3入門 詳解QUIC](https://gihyo.jp/admin/serial/01/http3/0002?summary)
+- [HTTP/3入門 詳解HTTP/3](https://gihyo.jp/admin/serial/01/http3/0003?summary)
+- [HTTP/3入門 実践HTTP/3](https://gihyo.jp/admin/serial/01/http3/0004?summary)
+- [HTTP/3入門 HTTP/3の拡張と応用](https://gihyo.jp/admin/serial/01/http3/0005?summary)
+
 ## Webhook
 - [How to secure Twilio webhook URLs in Node.js](https://www.twilio.com/blog/how-to-secure-twilio-webhook-urls-in-nodejs)
 - [Best practices for creating secure webhooks](https://snyk.io/blog/creating-secure-webhooks/)
