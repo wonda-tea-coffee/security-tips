@@ -232,6 +232,9 @@
 ### Drive-by attacks
 - [Why are developers so vulnerable to drive-by attacks?](https://about.gitlab.com/blog/2021/09/07/why-are-developers-vulnerable-to-driveby-attacks/)
 
+### ReDoS
+- [正規表現とReDoS](https://speakerdeck.com/akatsukinewgrad/zheng-gui-biao-xian-toredos)
+
 ### SQL Injection
 - [SQL injection cheat sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 
