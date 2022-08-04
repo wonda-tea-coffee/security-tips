@@ -111,6 +111,7 @@
 
 ## DevSecOps
 - [アジャイル開発におけるセキュリティ | パターン・ランゲージ](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Security%20in%20Agile%20Software%20Development.md#8-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E6%96%BD%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E6%96%B9%E9%87%9D%E6%A4%9C%E8%A8%8E)
+- [Building a Product Security program from scratch](https://www.anshumanbhartiya.com/posts/building-product-security-program)
 
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
@@ -155,6 +156,10 @@
 
 ## Log Management
 - [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
+
+## Okta
+- [Threat hunting in Okta logs](https://medium.com/threatpunter/okta-threat-hunting-tips-62dc0013d526)
+- [マスタリングOkta](https://www.oreilly.co.jp/books/9784873119717/)
 
 ## OPA/Rego
 - [OPA/Rego入門](https://zenn.dev/mizutani/books/d2f1440cfbba94)
