@@ -109,12 +109,6 @@
 - [Accelerate incident investigations with Log Anomaly Detection](https://www.datadoghq.com/ja/blog/accelerate-incident-investigations-with-log-anomaly-detection/)
 - [Detect cryptocurrency mining in your environment with Datadog Cloud SIEM](https://www.datadoghq.com/ja/blog/cryptomining-detection-rule/)
 
-## DAST
-### General
-- [skipfish](https://code.google.com/archive/p/skipfish/)
-- [Burp Scanner](https://portswigger.net/burp/vulnerability-scanner)
-- [OWASP ZAP](https://www.zaproxy.org/) 
-
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
 
@@ -287,8 +281,10 @@
 - [GitHub Workflow Auditor](https://github.com/tindersec/gh-workflow-auditor)
 
 ### DAST
-- [OWASP ZAP](https://www.zaproxy.org/)
 - [Aeyescan](https://www.aeyescan.jp/)
+- [Burp Scanner](https://portswigger.net/burp/vulnerability-scanner)
+- [OWASP ZAP](https://www.zaproxy.org/)
+- [skipfish](https://code.google.com/archive/p/skipfish/)
 
 ### Secret Scan
 - [GitGuardian](https://www.gitguardian.com/)
