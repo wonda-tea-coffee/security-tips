@@ -257,9 +257,10 @@
 ## SSL / TLS
 - [TLS, HTTP/2演習](https://www.slideshare.net/shigeki_ohtsu/tls-http2)
 
-## Study Resource
+## Study Guide
 - [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
 - [Your Guide to Starting an Application Security Career](https://betterappsec.com/your-guide-to-starting-an-application-security-career-1bb04dab7892)
+- [「攻撃テクニック」を学ぶ方法｜高度なセキュリティを実現する組織の在り方](https://www.nri-secure.co.jp/blog/attack-techniques-in-linux-environment)
 
 ## Supply Chain
 ### SLSA
