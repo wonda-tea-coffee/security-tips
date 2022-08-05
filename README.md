@@ -116,6 +116,9 @@
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
 
+## Education
+- [従業員向けセキュリティ教育のネタ](https://zenn.dev/cestquigucci/articles/8079939a6a7249)
+
 ## Encryption
 - [暗号鍵設定ガイダンス～暗号鍵の鍵長選択方法と運用方法～](https://www.ipa.go.jp/security/vuln/ckms_setting.html)
 
