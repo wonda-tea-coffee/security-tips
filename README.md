@@ -263,6 +263,11 @@
 - [Your Guide to Starting an Application Security Career](https://betterappsec.com/your-guide-to-starting-an-application-security-career-1bb04dab7892)
 - [「攻撃テクニック」を学ぶ方法｜高度なセキュリティを実現する組織の在り方](https://www.nri-secure.co.jp/blog/attack-techniques-in-linux-environment)
 
+## Study Platform
+- [Hack The Box](https://www.hackthebox.com/)
+- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
+- [TryHackMe](https://tryhackme.com/)
+
 ## Supply Chain
 ### SLSA
 - [How to SLSA Part 1 - The Basics](https://security.googleblog.com/2022/04/how-to-slsa-part-1-basics.html)
@@ -325,7 +330,6 @@
 - [RailsGoat](https://github.com/OWASP/railsgoat)
 
 ## Web
-- [Swigger Web Secrity Academy](https://portswigger.net/web-security)
 - [web.dev 安全とセキュリティ](https://web.dev/secure/)
 - [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
 - [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
