@@ -273,7 +273,7 @@
 - [How to SLSA Part 1 - The Basics](https://security.googleblog.com/2022/04/how-to-slsa-part-1-basics.html)
 - [How to SLSA Part 2 - The Details](https://security.googleblog.com/2022/04/how-to-slsa-part-2-details.html)
 - [How to SLSA Part 3 - Putting it all together](https://security.googleblog.com/2022/04/how-to-slsa-part-3-putting-it-all.html)
-- [https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html](Introducing SLSA, an End-to-End Framework for Supply Chain Integrity)
+- [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
 - [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
 
 ### Uncategorized
