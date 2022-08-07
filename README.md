@@ -73,9 +73,10 @@
 - [AWS Security Blog](https://aws.amazon.com/jp/blogs/security/)
 - [AWS ホワイトペーパーとガイド](https://aws.amazon.com/jp/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=tech-category%23security-identity-compliance&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 - [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/en/)
-- [AWS WAFを完全に理解する ~WAFの基礎からv2の変更点まで~](https://dev.classmethod.jp/articles/fully-understood-aws-waf-v2/)
+- [AWS WAFを完全に理解する \~WAFの基礎からv2の変更点まで\~](https://dev.classmethod.jp/articles/fully-understood-aws-waf-v2/)
 - [[目指せ上級者] 最強にセキュアなAWSアカウントの作り方](https://dev.classmethod.jp/articles/devio-2022-how2make-strongest-aws-secure-accounts/)
-- [CloudGoat ](https://github.com/RhinoSecurityLabs/cloudgoat)
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+- [AWS で実践する CDN セキュリティ](https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2022/08/04/AWS-%E3%81%A6%E3%82%99%E5%AE%9F%E8%B7%B5%E3%81%99%E3%82%8B-CDN-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3.pdf)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
