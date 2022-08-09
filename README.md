@@ -55,6 +55,7 @@
 - [メルカリ エンジニアリングブログ](https://engineering.mercari.com/blog/category/security/)
 - [入社4日目のAWS専任者が挑むセキュリティの向上 “土地勘”がないからこそ選んだ「OODAループ」という考え方](https://logmi.jp/tech/articles/326764)
 - [How Flipkart Reacts to Security Vulnerabilities](https://blog.flipkart.tech/how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e)
+- [全リージョン、複数AWSアカウントのAWS Security Hubのコントロールをコードで統制・管理する](https://tech.pepabo.com/2022/08/09/security-hub-controls/)
 
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
