@@ -57,6 +57,12 @@
 - [How Flipkart Reacts to Security Vulnerabilities](https://blog.flipkart.tech/how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e)
 - [全リージョン、複数AWSアカウントのAWS Security Hubのコントロールをコードで統制・管理する](https://tech.pepabo.com/2022/08/09/security-hub-controls/)
 
+## Certification
+- [情報処理技術者試験・情報処理安全確保支援士](https://www.jitec.ipa.go.jp/1_11seido/seido_gaiyo.html)
+- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+- [OFFENSIVE SECURITY](https://www.offensive-security.com/courses-and-certifications/)
+- [(ISC)^2](https://japan.isc2.org/intro_index.html)
+
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
 - [Ratchet](https://github.com/sethvargo/ratchet)
