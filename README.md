@@ -47,6 +47,9 @@
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [AttackerKB](https://attackerkb.com/topics)
 
+## Career
+- [セキュリティエンジニアへの道：私のキャリアチェンジ物語](https://engineering.mercari.com/blog/entry/2020-05-14-121008/)
+
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
 - [プロダクトコードの静的解析にhorusecを入れた話](https://developers.freee.co.jp/entry/sast-in-product-code)
