@@ -221,6 +221,7 @@
 - [tl;dr sec](https://tldrsec.com/blog/)
 - [NahamCon2022](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo)
 - [arrinca](https://www.arnica.io/blog)
+- [Speaker Deck @rung](https://speakerdeck.com/rung)
 
 ## Static Analysis
 ### Container
