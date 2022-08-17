@@ -161,6 +161,9 @@
 - [GitGoat](https://github.com/arnica-ext/GitGoat)
 - [How to protect yourself against GitHub/OAuth Apps Supply Chain Attacks](https://www.arnica.io/blog/how-to-protect-yourself-against-github-oauth-apps-supply-chain-attacks)
 
+## Golang
+- [ソースコードから脆弱性を見つけよう](https://docs.google.com/presentation/d/1XlgYzmGiAvh2XM4fcjX9dZCpjcDTHuGHjSojlhz9X8w/edit#slide=id.p)
+
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 - [Securely embed content on your site](https://developer.chrome.com/en/blog/embed-content/)
@@ -315,6 +318,7 @@
 
 ### SAST
 - [GitHub Workflow Auditor](https://github.com/tindersec/gh-workflow-auditor)
+- [mobsfscan](https://github.com/MobSF/mobsfscan)
 
 ### DAST
 - [Aeyescan](https://www.aeyescan.jp/)
