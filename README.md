@@ -141,7 +141,10 @@
 ## English
 - [セキュリティエンジニアのための English Reading](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/english-reading.html)
 
-### Fuzzing
+## Framework
+- [OWASP アプリケーションセキュリティ標準 4.0](https://github.com/OWASP/ASVS/blob/master/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.1-ja.pdf)
+
+## Fuzzing
 - [t-reqs](https://github.com/bahruzjabiyev/t-reqs)
 
 ## DATABASE
