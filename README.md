@@ -1,8 +1,12 @@
 # security-tips
 
 ## Authentication / Authorization
-- [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
+### OAuth
 - [OAuth 2.0 Security Best Current Practice draft-ietf-oauth-security-topics-19](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-19#section-4.2.4)
+
+### JWT
+- [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
+- [セキュリティ視点からの JWT 入門](https://scgajge12.hatenablog.com/entry/jwt_security)
 
 ## Book
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
