@@ -227,6 +227,9 @@
 ## Risk Analysis
 - [制御システムのセキュリティリスク分析ガイド](https://www.ipa.go.jp/security/controlsystem/riskanalysis.html)
 
+## Secret Management
+- [Best practices for managing and storing secrets including API keys and other credentials [cheat sheet included]](https://blog.gitguardian.com/secrets-api-management/)
+
 ## Source of information
 - [Flatt Security Blog](https://blog.flatt.tech/)
 - [はてなブックマーク セキュリティ技術](https://b.hatena.ne.jp/hotentry/it/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%8A%80%E8%A1%93)
@@ -269,6 +272,30 @@
 ### Theory
 - [プログラム解析入門、もしくはC/C++を安全に書くのが難しすぎる話](https://docs.google.com/presentation/d/1WHmCLeC5ZPiq2MBOQaZc-pNVWaJanx8eXAkViGl2zws/mobilepresent?slide=id.p)
 
+## SSL / TLS
+- [TLS, HTTP/2演習](https://www.slideshare.net/shigeki_ohtsu/tls-http2)
+
+## Study Guide
+- [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
+- [Your Guide to Starting an Application Security Career](https://betterappsec.com/your-guide-to-starting-an-application-security-career-1bb04dab7892)
+- [「攻撃テクニック」を学ぶ方法｜高度なセキュリティを実現する組織の在り方](https://www.nri-secure.co.jp/blog/attack-techniques-in-linux-environment)
+
+## Study Platform
+- [Hack The Box](https://www.hackthebox.com/)
+- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
+- [TryHackMe](https://tryhackme.com/)
+
+## Supply Chain
+### SLSA
+- [How to SLSA Part 1 - The Basics](https://security.googleblog.com/2022/04/how-to-slsa-part-1-basics.html)
+- [How to SLSA Part 2 - The Details](https://security.googleblog.com/2022/04/how-to-slsa-part-2-details.html)
+- [How to SLSA Part 3 - Putting it all together](https://security.googleblog.com/2022/04/how-to-slsa-part-3-putting-it-all.html)
+- [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
+- [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
+
+### Uncategorized
+- [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
+
 ## Threat
 ### Account Takeover
 - [Hackers can take over accounts you haven’t even created yet](https://blog.malwarebytes.com/hacking-2/2022/06/hackers-can-take-over-accounts-you-havent-even-created-yet/)
@@ -298,30 +325,6 @@
 - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
-
-## SSL / TLS
-- [TLS, HTTP/2演習](https://www.slideshare.net/shigeki_ohtsu/tls-http2)
-
-## Study Guide
-- [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
-- [Your Guide to Starting an Application Security Career](https://betterappsec.com/your-guide-to-starting-an-application-security-career-1bb04dab7892)
-- [「攻撃テクニック」を学ぶ方法｜高度なセキュリティを実現する組織の在り方](https://www.nri-secure.co.jp/blog/attack-techniques-in-linux-environment)
-
-## Study Platform
-- [Hack The Box](https://www.hackthebox.com/)
-- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
-- [TryHackMe](https://tryhackme.com/)
-
-## Supply Chain
-### SLSA
-- [How to SLSA Part 1 - The Basics](https://security.googleblog.com/2022/04/how-to-slsa-part-1-basics.html)
-- [How to SLSA Part 2 - The Details](https://security.googleblog.com/2022/04/how-to-slsa-part-2-details.html)
-- [How to SLSA Part 3 - Putting it all together](https://security.googleblog.com/2022/04/how-to-slsa-part-3-putting-it-all.html)
-- [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
-- [Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules](https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/)
-
-### Uncategorized
-- [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
 
 ## Tool
 ### Dependency
