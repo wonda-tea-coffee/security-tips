@@ -188,6 +188,7 @@
 
 ## Golang
 - [ソースコードから脆弱性を見つけよう](https://docs.google.com/presentation/d/1XlgYzmGiAvh2XM4fcjX9dZCpjcDTHuGHjSojlhz9X8w/edit#slide=id.p)
+- [OWASP Secure Coding Practices(日本語版)](https://github.com/techtouch-inc/Go-SCP-jaJP)
 
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
