@@ -368,6 +368,10 @@
 - [Shisho](https://shisho.dev/)
 - [Snyk](https://snyk.io/)
 
+### Countermeasures against misconfiguration
+- [Cloudbase](https://cloudbase.ink/)
+- [CloudHealth Secure State](https://cloudhealth.vmware.com/jp/products/cloudhealth-secure-state.html)
+
 ### Find more
 - [OSS Insight Security Tool - Ranking](https://ossinsight.io/collections/security-tool/)
 
