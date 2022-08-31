@@ -352,9 +352,9 @@
 
 ### DAST
 - [Aeyescan](https://www.aeyescan.jp/)
-- [Burp Scanner](https://portswigger.net/burp/vulnerability-scanner)
+- [Burp Suite](https://portswigger.net/burp)
 - [OWASP ZAP](https://www.zaproxy.org/)
-- [skipfish](https://code.google.com/archive/p/skipfish/)
+- [STACKHAWK](https://www.stackhawk.com/)
 
 ### Secret Scan
 - [GitGuardian](https://www.gitguardian.com/)
