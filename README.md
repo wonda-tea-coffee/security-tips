@@ -64,6 +64,7 @@
 - [入社4日目のAWS専任者が挑むセキュリティの向上 “土地勘”がないからこそ選んだ「OODAループ」という考え方](https://logmi.jp/tech/articles/326764)
 - [How Flipkart Reacts to Security Vulnerabilities](https://blog.flipkart.tech/how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e)
 - [全リージョン、複数AWSアカウントのAWS Security Hubのコントロールをコードで統制・管理する](https://tech.pepabo.com/2022/08/09/security-hub-controls/)
+- [Zoncolan: How Facebook uses static analysis to detect and prevent security issues](https://engineering.fb.com/2019/08/15/security/zoncolan/)
 
 ## Certification
 - [情報処理技術者試験・情報処理安全確保支援士](https://www.jitec.ipa.go.jp/1_11seido/seido_gaiyo.html)
