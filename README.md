@@ -401,6 +401,7 @@
 - [HTTP/3入門 詳解HTTP/3](https://gihyo.jp/admin/serial/01/http3/0003?summary)
 - [HTTP/3入門 実践HTTP/3](https://gihyo.jp/admin/serial/01/http3/0004?summary)
 - [HTTP/3入門 HTTP/3の拡張と応用](https://gihyo.jp/admin/serial/01/http3/0005?summary)
+- [マイクロサービス／分散モノリス的アーキテクチャへの攻撃手法](https://gmo-cybersecurity.com/news/security_camp_presentation_slide_20220901/)
 
 ## Webhook
 - [How to secure Twilio webhook URLs in Node.js](https://www.twilio.com/blog/how-to-secure-twilio-webhook-urls-in-nodejs)
