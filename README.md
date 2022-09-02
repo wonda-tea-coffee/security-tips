@@ -368,6 +368,7 @@
 - [Detectify](https://detectify.com/)
 - [Shisho](https://shisho.dev/)
 - [Snyk](https://snyk.io/)
+- [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 
 ### Countermeasures against misconfiguration
 - [Cloudbase](https://cloudbase.ink/)
