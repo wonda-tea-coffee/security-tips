@@ -147,6 +147,7 @@
 - [Product Security Roadmap](https://www.anshumanbhartiya.com/posts/prodsec-roadmap)
 - [A Lightweight Approach To Implement Secure Software Development LifeCycle (Secure SDLC)](https://www.anshumanbhartiya.com/posts/secure-sdlc)
 - [OWASP DevSecOps Maturity Model](https://dsomm.timo-pagel.de/)
+- [セキュリティ・バイ・デザイン導入指南書](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/security-by-design.html)
 
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
