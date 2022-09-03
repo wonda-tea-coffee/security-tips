@@ -285,6 +285,7 @@
 - [「攻撃テクニック」を学ぶ方法｜高度なセキュリティを実現する組織の在り方](https://www.nri-secure.co.jp/blog/attack-techniques-in-linux-environment)
 
 ## Study Platform
+- [CS50 for Japanese: コンピュータサイエンスの入門](https://cs50.jp/)
 - [Hack The Box](https://www.hackthebox.com/)
 - [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
 - [TryHackMe](https://tryhackme.com/)
