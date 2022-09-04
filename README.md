@@ -201,6 +201,7 @@
 - [freee](https://jobs.freee.co.jp/#job_list)
 - [Github](https://github.com/about/careers)
 - [mercari](https://apply.workable.com/mercari/)
+- [デジタル庁](https://herp.careers/v1/digitalsaiyo/7dtwfs9hOlvE)
 
 ## Log Management
 - [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
