@@ -152,6 +152,7 @@
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
 - [eBPFで実現するコンテナランタイムセキュリティ](https://speakerdeck.com/tobachi/container-runtime-security-with-ebpf)
+- [eBPFに3日で入門した話](https://caddi.tech/archives/3880)
 
 ## Education
 - [従業員向けセキュリティ教育のネタ](https://zenn.dev/cestquigucci/articles/8079939a6a7249)
