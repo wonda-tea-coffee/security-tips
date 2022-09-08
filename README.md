@@ -335,6 +335,10 @@
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
 
+### XXE
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security/xxe)
+- [How to find and fix XML entity vulnerabilities](https://snyk.io/blog/find-and-fix-xml-entity-vulnerabilities/)
+
 ## Tool
 ### Dependency
 - [octovy](https://github.com/m-mizutani/octovy)
