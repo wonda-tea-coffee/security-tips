@@ -54,6 +54,7 @@
 
 ## Career
 - [セキュリティエンジニアへの道：私のキャリアチェンジ物語](https://engineering.mercari.com/blog/entry/2020-05-14-121008/)
+- [放送大学と学位授与機構で情報工学の学位を取る（科目対応表付き）](https://note.com/lumpsucker/n/nef2ffd3f164f)
 
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
