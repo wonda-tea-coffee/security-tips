@@ -294,6 +294,8 @@
 - [Hack The Box](https://www.hackthebox.com/)
 - [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
 - [TryHackMe](https://tryhackme.com/)
+- [Linkedin Learning](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=security&language=en_US&spellcheck=true)
+- [VulnHub](https://www.vulnhub.com/)
 
 ## Supply Chain
 ### SLSA
