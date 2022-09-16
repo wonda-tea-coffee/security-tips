@@ -58,6 +58,7 @@
 - [セキュリティエンジニアへの道：私のキャリアチェンジ物語](https://engineering.mercari.com/blog/entry/2020-05-14-121008/)
 - [放送大学と学位授与機構で情報工学の学位を取る（科目対応表付き）](https://note.com/lumpsucker/n/nef2ffd3f164f)
 - [海外大学のCS修士課程に進学することになった](https://zenn.dev/k_n/articles/3998fcb5b372e9)
+- [文系出身者がジョージア工科大学のコンピュータサイエンス修士に合格するまで](https://zenn.dev/tofu511/articles/49b81ec2b6883e)
 
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
