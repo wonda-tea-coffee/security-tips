@@ -40,13 +40,15 @@
 - [Awesome browser security](https://github.com/cezary-sec/awesome-browser-security/)
 
 ## Bug Bounty
+### Platform
+- [IssueHunt](https://bounty.issuehunt.io/company)
+- [HackerOne](https://www.hackerone.com/)
+
+### Knowledge
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [urlscan.io](https://urlscan.io/)
 - [IPAddress.com](https://www.ipaddress.com/)
 - [trickest/cve](https://github.com/trickest/cve)
-- [Reading RFCs for bug bounty hunters](https://edoverflow.com/2022/reading-rfcs-for-bug-bounty-hunters/)
-
-## Bug Hunting
 - [grep.app](https://grep.app/)
 - [Github Code Search](https://cs.github.com/)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
