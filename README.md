@@ -6,7 +6,7 @@
 
 ### JWT
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
-- [セキュリティ視点からの JWT 入門](https://scgajge12.hatenablog.com/entry/jwt_security)
+- [セキュリティ視点からの JWT 入門](https://scgajge12.hateFnablog.com/entry/jwt_security)
 
 ## Book
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
@@ -57,6 +57,7 @@
 ## Career
 - [セキュリティエンジニアへの道：私のキャリアチェンジ物語](https://engineering.mercari.com/blog/entry/2020-05-14-121008/)
 - [放送大学と学位授与機構で情報工学の学位を取る（科目対応表付き）](https://note.com/lumpsucker/n/nef2ffd3f164f)
+- [海外大学のCS修士課程に進学することになった](https://zenn.dev/k_n/articles/3998fcb5b372e9)
 
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
