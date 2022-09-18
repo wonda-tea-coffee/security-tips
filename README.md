@@ -292,6 +292,7 @@
 - [Your Guide to Starting an Application Security Career](https://betterappsec.com/your-guide-to-starting-an-application-security-career-1bb04dab7892)
 - [「攻撃テクニック」を学ぶ方法｜高度なセキュリティを実現する組織の在り方](https://www.nri-secure.co.jp/blog/attack-techniques-in-linux-environment)
 - [A rough guide to launching a career in cybersecurity](https://portswigger.net/daily-swig/a-rough-guide-to-launching-a-career-in-cybersecurity)
+- [PENTESTERLAB BOOTCAMP](https://pentesterlab.com/bootcamp)
 
 ## Study Platform
 - [CS50 for Japanese: コンピュータサイエンスの入門](https://cs50.jp/)
