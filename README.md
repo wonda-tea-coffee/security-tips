@@ -303,6 +303,7 @@
 - [VulnHub](https://www.vulnhub.com/)
 - [PG play / PG Practice](https://www.offensive-security.com/labs/individual/)
 - [PentesterLab](https://pentesterlab.com/)
+- [Pentester Academy](https://www.pentesteracademy.com/)
 
 ## Supply Chain
 ### SLSA
