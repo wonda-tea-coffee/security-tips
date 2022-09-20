@@ -302,6 +302,7 @@
 - [Linkedin Learning](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=security&language=en_US&spellcheck=true)
 - [VulnHub](https://www.vulnhub.com/)
 - [PG play / PG Practice](https://www.offensive-security.com/labs/individual/)
+- [PentesterLab](https://pentesterlab.com/)
 
 ## Supply Chain
 ### SLSA
