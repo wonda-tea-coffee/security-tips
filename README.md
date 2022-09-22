@@ -108,6 +108,7 @@
 
 ### IaC
 - [セキュアなTerraformの使い方](https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse)
+- [Terraform Module Designs](https://speakerdeck.com/tmknom/terraform-module-designs)
 
 ### Serverless
 - [Security reference architecture for a serverless application](https://anunay-bhatt.medium.com/security-reference-architecture-for-a-serverless-application-2fcd25b1d5e2)
