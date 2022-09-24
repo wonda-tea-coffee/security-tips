@@ -418,6 +418,7 @@
 - [セキュリティ研修【ミクシィ22新卒技術研修】](https://speakerdeck.com/mixi_engineers/2022-security-training)
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
+- [SPAセキュリティ超入門](https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022)
 
 ### HTTP
 - [HTTP/3入門 進化するHTTPの歩み](https://gihyo.jp/admin/serial/01/http3/0001?summary)
