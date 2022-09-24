@@ -347,6 +347,7 @@
 - [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
+- [Attacking web wihout JS - CSS injection](https://speakerdeck.com/aszx87410/attacking-web-without-js-css-injection)
 
 ### XXE
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security/xxe)
