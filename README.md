@@ -306,6 +306,7 @@
 - [PG play / PG Practice](https://www.offensive-security.com/labs/individual/)
 - [PentesterLab](https://pentesterlab.com/)
 - [Pentester Academy](https://www.pentesteracademy.com/)
+- [AWS 日本語ハンズオン](https://aws-samples.github.io/jp-contents-hub/)
 
 ## Supply Chain
 ### SLSA
