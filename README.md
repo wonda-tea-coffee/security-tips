@@ -422,6 +422,10 @@
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
 - [SPAセキュリティ超入門](https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022)
+- [【2018年】CTF Web問題のwriteupぜんぶ読む](https://graneed.hatenablog.com/entry/2018/12/16/003745)
+- [【2019年】CTF Web問題の攻撃手法まとめ (Web問題のwriteupぜんぶ読む)](https://graneed.hatenablog.com/entry/2019/12/29/115100)
+- [【2020年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2021/08/09/115452)
+- [【2021年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2022/09/28/100000)
 
 ### HTTP
 - [HTTP/3入門 進化するHTTPの歩み](https://gihyo.jp/admin/serial/01/http3/0001?summary)
