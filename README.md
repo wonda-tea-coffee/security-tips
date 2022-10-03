@@ -77,9 +77,13 @@
 
 ## Certification
 - [情報処理技術者試験・情報処理安全確保支援士](https://www.jitec.ipa.go.jp/1_11seido/seido_gaiyo.html)
+- [認定脆弱性診断士](https://www.gsx.co.jp/services/securitylearning/securist/webappnwsecuritytesting.html)
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
 - [OFFENSIVE SECURITY](https://www.offensive-security.com/courses-and-certifications/)
 - [(ISC)^2](https://japan.isc2.org/intro_index.html)
+- [EC-Council](https://www.eccouncil.org/programs/)
+- [Certified Kubernetes Security Specialist](https://www.cncf.io/certification/cks/)
+- [AWS Certified Security - Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)
 
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
