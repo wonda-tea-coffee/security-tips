@@ -211,6 +211,7 @@
 
 ## Job
 - [freee](https://jobs.freee.co.jp/#job_list)
+- [Speee](https://open.talentio.com/r/1/c/speee/pages/43246)
 - [Github](https://github.com/about/careers)
 - [mercari](https://apply.workable.com/mercari/)
 - [デジタル庁](https://herp.careers/v1/digitalsaiyo/7dtwfs9hOlvE)
