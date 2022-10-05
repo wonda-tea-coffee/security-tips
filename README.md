@@ -338,6 +338,9 @@
 ### Buffer Overflow
 - [Buffer overflow attacks in C++: A hands-on guide](https://snyk.io/blog/buffer-overflow-attacks-in-c/)
 
+### Cookie
+- [Cookie Prefixのバイパス](https://www.mbsd.jp/research/20221005/cookie-prefix/)
+
 ### CSRF
 - [検出例から学ぶクロスサイトリクエストフォージェリ](https://www.mbsd.jp/research/20220617/blog/)
 
