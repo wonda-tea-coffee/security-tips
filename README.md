@@ -64,6 +64,7 @@
 - [海外大学のCS修士課程に進学することになった](https://zenn.dev/k_n/articles/3998fcb5b372e9)
 - [文系出身者がジョージア工科大学のコンピュータサイエンス修士に合格するまで](https://zenn.dev/tofu511/articles/49b81ec2b6883e)
 - [趣味のプログラミングで博士号を取った社会人の覚え書き](https://zenn.dev/canard0328/articles/memorandum-of-phd)
+- [See Yourself in Cyber with OffSec: Penetration Testing](https://www.offensive-security.com/penetration-testing/see-yourself-as-a-pentester/)
 
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
