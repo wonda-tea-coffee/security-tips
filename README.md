@@ -115,6 +115,7 @@
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
 - [Cloud Risk Encyclopedia](https://orca.security/resources/cloud-risk-encyclopedia/)
 - [The Open Cloud Vulnerability & Security Issue Database](https://www.cloudvulndb.org/)
+- [CTF Cloud 問題の攻撃手法まとめ(2021年版)](https://scgajge12.hatenablog.com/entry/ctf_cloud_2021)
 
 ### IaC
 - [セキュアなTerraformの使い方](https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse)
