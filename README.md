@@ -348,8 +348,9 @@
 ### Deserialization
 - [NotSoCereal-Lab: A Deserialization exploit playground](https://notsosecure.com/notsocereal-lab-deserialization-exploit-playground)
 
-### DNS Rebinding Attack
+### DNS
 - [DNSリバインディング(DNS Rebinding)対策総まとめ](https://blog.tokumaru.org/2022/05/dns-rebinding-protection.html)
+- [忘れ去られたドメイン名に宿る付喪神](https://eng-blog.iij.ad.jp/archives/15199)
 
 ### Drive-by attacks
 - [Why are developers so vulnerable to drive-by attacks?](https://about.gitlab.com/blog/2021/09/07/why-are-developers-vulnerable-to-driveby-attacks/)
