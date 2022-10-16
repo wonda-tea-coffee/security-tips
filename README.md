@@ -85,8 +85,8 @@
 - [OFFENSIVE SECURITY](https://www.offensive-security.com/courses-and-certifications/)
 - [(ISC)^2](https://japan.isc2.org/intro_index.html)
 - [EC-Council](https://www.eccouncil.org/programs/)
-- [Certified Kubernetes Security Specialist](https://www.cncf.io/certification/cks/)
 - [AWS Certified Security - Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)
+- [The Linux Foundation](https://training.linuxfoundation.org/ja/full-catalog/?_sft_product_type=certification&trp-form-language=ja)
 
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
