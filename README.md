@@ -358,6 +358,7 @@
 
 ### ReDoS
 - [正規表現とReDoS](https://speakerdeck.com/akatsukinewgrad/zheng-gui-biao-xian-toredos)
+- [正規表現の脆弱性「ReDoS」徹底解説 ～原理と対策から、Perlでの最適化まで（1）](https://gihyo.jp/dev/serial/01/perl-hackers-hub/007401)
 
 ### SQL Injection
 - [SQL injection cheat sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
