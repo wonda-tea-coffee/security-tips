@@ -336,6 +336,9 @@
 ### Uncategorized
 - [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
 
+### npm
+- [NPM security: preventing supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/)
+
 ## Threat
 ### Account Takeover
 - [Hackers can take over accounts you haven’t even created yet](https://blog.malwarebytes.com/hacking-2/2022/06/hackers-can-take-over-accounts-you-havent-even-created-yet/)
