@@ -50,6 +50,7 @@
 ### Platform
 - [IssueHunt](https://bounty.issuehunt.io/company)
 - [HackerOne](https://www.hackerone.com/)
+- [Initigriti](https://www.intigriti.com/)
 
 ### Knowledge
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
