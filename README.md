@@ -231,6 +231,9 @@
 ## Log Management
 - [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
 
+## Node.js
+- [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
+
 ## Okta
 - [Threat hunting in Okta logs](https://medium.com/threatpunter/okta-threat-hunting-tips-62dc0013d526)
 - [マスタリングOkta](https://www.oreilly.co.jp/books/9784873119717/)
