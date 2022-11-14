@@ -11,6 +11,9 @@
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
 - [セキュリティ視点からの JWT 入門](https://scgajge12.hateFnablog.com/entry/jwt_security)
 
+### SAML
+- [进宫 SAML 2.0 安全](https://paper.seebug.org/2006/)
+
 ## Book
 - [安全なWebアプリケーションの作り方](https://wasbook.org/)
 - [Webブラウザセキュリティ ― Webアプリケーションの安全性を支える仕組みを整理する](https://www.lambdanote.com/products/wbs)
