@@ -40,6 +40,7 @@
 - [入門セキュリティコンテスト CTFを解きながら学ぶ実戦技術](https://gihyo.jp/book/2022/978-4-297-13180-7)
 - [詳解セキュリティコンテスト ~CTFで学ぶ脆弱性攻略の技術](https://www.amazon.co.jp/dp/B094J7ZCJN)
 - [セキュリティコンテストチャレンジブック　CTFで学ぼう！情報を守るための戦い方](https://www.amazon.co.jp/dp/B017X3D3GE)
+- [プロフェッショナルSSL/TLS](https://www.lambdanote.com/products/ssl-tls-ebook)
 
 ## Browser
 - [電子情報学特論：Chromiumのアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o)
