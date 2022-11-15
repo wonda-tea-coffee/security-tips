@@ -84,6 +84,7 @@
 - [How Flipkart Reacts to Security Vulnerabilities](https://blog.flipkart.tech/how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e)
 - [全リージョン、複数AWSアカウントのAWS Security Hubのコントロールをコードで統制・管理する](https://tech.pepabo.com/2022/08/09/security-hub-controls/)
 - [Zoncolan: How Facebook uses static analysis to detect and prevent security issues](https://engineering.fb.com/2019/08/15/security/zoncolan/)
+- [2022.11.14 プロダクトセキュリティのはじめ方 in Ubie](https://docs.google.com/presentation/d/1ygKmi4AH8C6zhKUW_1t8hz-FA9xbjblWBU4XaRtJRLM/edit#slide=id.g12324f065a8_0_0)
 
 ## Certification
 - [情報処理技術者試験・情報処理安全確保支援士](https://www.jitec.ipa.go.jp/1_11seido/seido_gaiyo.html)
