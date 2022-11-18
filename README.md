@@ -389,6 +389,9 @@
 - [How to find and fix XML entity vulnerabilities](https://snyk.io/blog/find-and-fix-xml-entity-vulnerabilities/)
 
 ## Tool
+### CSPM
+- [CloudSploit](https://github.com/aquasecurity/cloudsploit)
+
 ### Dependency
 - [octovy](https://github.com/m-mizutani/octovy)
   - scanner(trivy)
@@ -430,6 +433,7 @@
 - [Snyk](https://snyk.io/)
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 - [S4](https://s-4.jp/service)
+- [yamory](https://yamory.io/)
 
 ### Countermeasures against misconfiguration
 - [Cloudbase](https://cloudbase.ink/)
