@@ -82,6 +82,7 @@
 - [EC-Council](https://www.eccouncil.org/programs/)
 - [AWS Certified Security - Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)
 - [The Linux Foundation](https://training.linuxfoundation.org/ja/full-catalog/?_sft_product_type=certification&trp-form-language=ja)
+- [HTB Academy](https://academy.hackthebox.com/preview/certifications/)
 
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
