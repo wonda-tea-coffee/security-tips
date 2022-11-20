@@ -1,11 +1,16 @@
 # security-tips
 
+## Architecture
+- [セキュア・バイ・デザイン](https://www.amazon.co.jp/dp/B09F697K2V/)
+
 ## Authentication / Authorization
 ### General
 - [C向けサービスで 使われている認証方式と安全な使い方](https://speakerdeck.com/ritou/cxiang-kesabisude-shi-wareteiruren-zheng-fang-shi-toan-quan-nashi-ifang)
 
 ### OAuth
 - [OAuth 2.0 Security Best Current Practice draft-ietf-oauth-security-topics-19](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-19#section-4.2.4)
+- [雰囲気で使わずきちんと理解する！整理してOAuth2.0を使うためのチュートリアルガイド](https://www.amazon.co.jp/dp/B07XT8H2YG)
+- [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
 
 ### JWT
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
@@ -14,33 +19,10 @@
 ### SAML
 - [进宫 SAML 2.0 安全](https://paper.seebug.org/2006/)
 
-## Book
-- [安全なWebアプリケーションの作り方](https://wasbook.org/)
-- [Webブラウザセキュリティ ― Webアプリケーションの安全性を支える仕組みを整理する](https://www.lambdanote.com/products/wbs)
-- [マスタリングTCP/IP 情報セキュリティ編](https://www.ohmsha.co.jp/book/9784274069215/)
-- [リアルワールドバグハンティング――ハッキング事例から学ぶウェブの脆弱性](https://www.oreilly.co.jp/books/9784873119212/)
-- [セキュア・バイ・デザイン](https://www.amazon.co.jp/dp/B09F697K2V/)
+## Binary
+- [はじめて学ぶバイナリ解析　不正なコードからコンピュータを守るサイバーセキュリティ技術](https://www.amazon.co.jp/dp/B084R85269/)
+- [実践バイナリ解析　バイナリ計装、解析、逆アセンブリのためのLinuxツールの作り方](https://www.amazon.co.jp/dp/B09QLQ8DWG/)
 - [Hacking：美しき策謀 第2版――脆弱性攻撃の理論と実際](https://www.oreilly.co.jp/books/9784873115146/)
-- [クラウドネイティブセキュリティ入門](https://www.amazon.co.jp/dp/B096TGTN53/)
-- [要点整理から攻略する『AWS認定 セキュリティ-専門知識』](https://www.amazon.co.jp/dp/B08DCLRHC7/)
-- [サイバー術 プロに学ぶサイバーセキュリティ](https://www.amazon.co.jp/dp/B09JSFTDCH/)
-- [実践 CSIRTプレイブック――セキュリティ監視とインシデント対応の基本計画](https://www.oreilly.co.jp/books/9784873118383/)
-- [脅威インテリジェンスの教科書](https://gihyo.jp/book/2022/978-4-297-12457-1)
-- [イラスト図解式 この一冊で全部わかるセキュリティの基本](https://www.amazon.co.jp/dp/B0756SS7N3/)
-- [カオスエンジニアリング入門](https://www.amazon.co.jp/dp/B09VMP3B69/)
-- [セキュリティエンジニアのための機械学習――AI技術によるサイバーセキュリティ対策入門](https://www.oreilly.co.jp/books/9784873119076/)
-- [実践 bashによるサイバーセキュリティ対策――セキュリティ技術者のためのシェルスクリプト活用術](https://www.oreilly.co.jp/books/9784873119052/)
-- [入門 監視――モダンなモニタリングのためのデザインパターン](https://www.oreilly.co.jp//books/9784873118642/index.html)
-- [DevOpsSec](https://www.oreilly.com/library/view/devopssec/9781491971413/)
-- [サイバーセキュリティプログラミング](https://www.oreilly.co.jp/books/9784873119731/)
-- [はじめて学ぶバイナリ解析](https://www.amazon.co.jp/dp/B084R85269)
-- [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
-- [クラウド破産を回避する AWS実践ガイド](https://booth.pm/ja/items/1994587)
-- [情報セキュリティの敗北史](https://www.hakuyo-sha.co.jp/science/security/)
-- [入門セキュリティコンテスト CTFを解きながら学ぶ実戦技術](https://gihyo.jp/book/2022/978-4-297-13180-7)
-- [詳解セキュリティコンテスト ~CTFで学ぶ脆弱性攻略の技術](https://www.amazon.co.jp/dp/B094J7ZCJN)
-- [セキュリティコンテストチャレンジブック　CTFで学ぼう！情報を守るための戦い方](https://www.amazon.co.jp/dp/B017X3D3GE)
-- [プロフェッショナルSSL/TLS](https://www.lambdanote.com/products/ssl-tls-ebook)
 
 ## Browser
 - [電子情報学特論：Chromiumのアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o)
@@ -49,6 +31,7 @@
 - [Inside look at modern web browser (part 3)](https://developer.chrome.com/blog/inside-browser-part3/)
 - [Inside look at modern web browser (part 4)](https://developer.chrome.com/blog/inside-browser-part4/)
 - [Awesome browser security](https://github.com/cezary-sec/awesome-browser-security/)
+- [Webブラウザセキュリティ ― Webアプリケーションの安全性を支える仕組みを整理する](https://www.lambdanote.com/products/wbs)
 
 ## Bug Bounty
 ### Platform
@@ -65,6 +48,9 @@
 - [Github Code Search](https://cs.github.com/)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [AttackerKB](https://attackerkb.com/topics)
+
+## Chaos Engineering
+- [カオスエンジニアリング入門](https://www.amazon.co.jp/dp/B09VMP3B69/)
 
 ## Career
 - [セキュリティエンジニアへの道：私のキャリアチェンジ物語](https://engineering.mercari.com/blog/entry/2020-05-14-121008/)
@@ -120,12 +106,14 @@
 - [AWS環境のセキュリティどうやってチェックしてる？](https://speakerdeck.com/cmusudakeisuke/awshuan-jing-falsesekiyuriteitouyatutetietukusiteru)
 - [THREE GUARDRAILS FOR AWS LAMBDA](https://blog.symops.com/2022/08/17/lambda-guardrails/)
 - [AWS Lambdaにおけるセキュリティリスクと対策](https://speakerdeck.com/scgajge12/aws-lambdaniokerusekiyuriteirisukutodui-ce)
+- [要点整理から攻略する『AWS認定 セキュリティ-専門知識』](https://www.amazon.co.jp/dp/B08DCLRHC7/)
+- [クラウド破産を回避する AWS実践ガイド](https://booth.pm/ja/items/1994587)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
 - [Cloud Risk Encyclopedia](https://orca.security/resources/cloud-risk-encyclopedia/)
 - [The Open Cloud Vulnerability & Security Issue Database](https://www.cloudvulndb.org/)
-- [CTF Cloud 問題の攻撃手法まとめ(2021年版)](https://scgajge12.hatenablog.com/entry/ctf_cloud_2021)
+- [クラウドネイティブセキュリティ入門](https://www.amazon.co.jp/dp/B096TGTN53/)
 
 ### IaC
 - [セキュアなTerraformの使い方](https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse)
@@ -160,6 +148,19 @@
 - [業務する環境をセキュアにした話 その5](https://techtekt.persol-career.co.jp/entry/tech/220606_01)
 - [業務する環境をセキュアにした話 その6](https://techtekt.persol-career.co.jp/entry/tech/220823_01)
 
+## CSIRT
+- [実践 CSIRTプレイブック――セキュリティ監視とインシデント対応の基本計画](https://www.oreilly.co.jp/books/9784873118383/)
+
+## CTF
+- [【2018年】CTF Web問題のwriteupぜんぶ読む](https://graneed.hatenablog.com/entry/2018/12/16/003745)
+- [【2019年】CTF Web問題の攻撃手法まとめ (Web問題のwriteupぜんぶ読む)](https://graneed.hatenablog.com/entry/2019/12/29/115100)
+- [【2020年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2021/08/09/115452)
+- [【2021年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2022/09/28/100000)
+- [CTF Cloud 問題の攻撃手法まとめ(2021年版)](https://scgajge12.hatenablog.com/entry/ctf_cloud_2021)
+- [入門セキュリティコンテスト CTFを解きながら学ぶ実戦技術](https://gihyo.jp/book/2022/978-4-297-13180-7)
+- [詳解セキュリティコンテスト ~CTFで学ぶ脆弱性攻略の技術](https://www.amazon.co.jp/dp/B094J7ZCJN)
+- [セキュリティコンテストチャレンジブック　CTFで学ぼう！情報を守るための戦い方](https://www.amazon.co.jp/dp/B017X3D3GE)
+
 ## Curation List
 - [Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security)
 - [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
@@ -175,6 +176,7 @@
 - [A Lightweight Approach To Implement Secure Software Development LifeCycle (Secure SDLC)](https://www.anshumanbhartiya.com/posts/secure-sdlc)
 - [OWASP DevSecOps Maturity Model](https://dsomm.timo-pagel.de/)
 - [セキュリティ・バイ・デザイン導入指南書](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/security-by-design.html)
+- [DevOpsSec](https://www.oreilly.com/library/view/devopssec/9781491971413/)
 
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
@@ -202,6 +204,12 @@
 ### MySQL
 - [MySQLのデータ暗号化いろいろ](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174)
 
+## Game
+- [オンラインゲームセキュリティ](https://www.amazon.co.jp/dp/4781702511)
+
+## General
+- [イラスト図解式 この一冊で全部わかるセキュリティの基本](https://www.amazon.co.jp/dp/B0756SS7N3/)
+
 ## Github
 - [GitHubリポジトリにおけるレビュープロセスの統制](https://engineering.mercari.com/blog/entry/20211213-8f5f5a5aee/)
 - [GitHubセキュリティ Organization運用のベストプラクティス](https://zenn.dev/tmknom/books/github-organization-security)
@@ -222,6 +230,9 @@
 - [ソースコードから脆弱性を見つけよう](https://docs.google.com/presentation/d/1XlgYzmGiAvh2XM4fcjX9dZCpjcDTHuGHjSojlhz9X8w/edit#slide=id.p)
 - [OWASP Secure Coding Practices(日本語版)](https://github.com/techtouch-inc/Go-SCP-jaJP)
 
+## History
+- [情報セキュリティの敗北史](https://www.hakuyo-sha.co.jp/science/security/)
+
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 - [Securely embed content on your site](https://developer.chrome.com/en/blog/embed-content/)
@@ -233,8 +244,20 @@
 - [mercari](https://apply.workable.com/mercari/)
 - [デジタル庁](https://herp.careers/v1/digitalsaiyo/7dtwfs9hOlvE)
 
+## Law
+- [Wizard Bible事件から考えるサイバーセキュリティ](https://peaks.cc/books/wizard_bible_security)
+
 ## Log Management
 - [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
+
+## Machine Learning
+- [セキュリティエンジニアのための機械学習――AI技術によるサイバーセキュリティ対策入門](https://www.oreilly.co.jp/books/9784873119076/)
+
+## Malware
+- [マルウエアの教科書](https://www.amazon.co.jp/dp/B0BF8CC4X2)
+
+## Monitoring
+- [入門 監視――モダンなモニタリングのためのデザインパターン](https://www.oreilly.co.jp//books/9784873118642/index.html)
 
 ## Node.js
 - [Node.js Security Best Practices](https://nodejs.org/en/docs/guides/security/)
@@ -255,6 +278,14 @@
 ## Protocol
 - [The Illustrated TLS 1.3 Connection](https://tls13.ulfheim.net/)
 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
+- [マスタリングTCP/IP 情報セキュリティ編](https://www.ohmsha.co.jp/book/9784274069215/)
+- [プロフェッショナルSSL/TLS](https://www.lambdanote.com/products/ssl-tls-ebook)
+
+## Ransomware
+- [ランサムウエアから会社を守る　～身代金支払いの是非から事前の防御計画まで](https://www.amazon.co.jp/dp/B0BMNZKN5J)
+
+## Red Team
+- [サイバーセキュリティ レッドチーム実践ガイド](https://www.amazon.co.jp/dp/B07MYSZ715/)
 
 ## Ruby / Rails
 - [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
@@ -267,6 +298,9 @@
 
 ## Secret Management
 - [Best practices for managing and storing secrets including API keys and other credentials [cheat sheet included]](https://blog.gitguardian.com/secrets-api-management/)
+
+## Shell
+- [実践 bashによるサイバーセキュリティ対策――セキュリティ技術者のためのシェルスクリプト活用術](https://www.oreilly.co.jp/books/9784873119052/)
 
 ## Source of information
 - [Flatt Security Blog](https://blog.flatt.tech/)
@@ -388,6 +422,9 @@
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security/xxe)
 - [How to find and fix XML entity vulnerabilities](https://snyk.io/blog/find-and-fix-xml-entity-vulnerabilities/)
 
+## Threat Intelligence
+- [脅威インテリジェンスの教科書](https://gihyo.jp/book/2022/978-4-297-12457-1)
+
 ## Tool
 ### CSPM
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit)
@@ -445,11 +482,17 @@
 ### Other
 - [Monad](https://www.monad.security/)
 
+## Uncategorized
+- [サイバー術 プロに学ぶサイバーセキュリティ](https://www.amazon.co.jp/dp/B09JSFTDCH/)
+- [サイバーセキュリティプログラミング](https://www.oreilly.co.jp/books/9784873119731/)
+
 ## Vulnerable App
 - [DVWS](https://github.com/interference-security/DVWS)
 - [RailsGoat](https://github.com/OWASP/railsgoat)
+- [TUDO](https://github.com/bmdyy/tudo)
 
 ## Web
+- [安全なWebアプリケーションの作り方](https://wasbook.org/)
 - [web.dev 安全とセキュリティ](https://web.dev/secure/)
 - [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
 - [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
@@ -458,10 +501,7 @@
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
 - [SPAセキュリティ超入門](https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022)
-- [【2018年】CTF Web問題のwriteupぜんぶ読む](https://graneed.hatenablog.com/entry/2018/12/16/003745)
-- [【2019年】CTF Web問題の攻撃手法まとめ (Web問題のwriteupぜんぶ読む)](https://graneed.hatenablog.com/entry/2019/12/29/115100)
-- [【2020年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2021/08/09/115452)
-- [【2021年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2022/09/28/100000)
+- [リアルワールドバグハンティング――ハッキング事例から学ぶウェブの脆弱性](https://www.oreilly.co.jp/books/9784873119212/)
 
 ### HTTP
 - [HTTP/3入門 進化するHTTPの歩み](https://gihyo.jp/admin/serial/01/http3/0001?summary)
