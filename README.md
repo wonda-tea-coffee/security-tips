@@ -109,6 +109,7 @@
 - [AWS Lambdaにおけるセキュリティリスクと対策](https://speakerdeck.com/scgajge12/aws-lambdaniokerusekiyuriteirisukutodui-ce)
 - [要点整理から攻略する『AWS認定 セキュリティ-専門知識』](https://www.amazon.co.jp/dp/B08DCLRHC7/)
 - [クラウド破産を回避する AWS実践ガイド](https://booth.pm/ja/items/1994587)
+- [スタートアップ企業で始めるAWSセキュリティ対策 ～内部統制の観点から～](https://speakerdeck.com/yuj1osm/aws-security-and-internal-audit-at-a-startup)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
