@@ -17,6 +17,7 @@
 ### JWT
 - [攻撃して学ぶJWT【ハンズオンあり】](https://moneyforward.com/engineers_blog/2020/09/15/jwt/)
 - [セキュリティ視点からの JWT 入門](https://scgajge12.hateFnablog.com/entry/jwt_security)
+- [2020年版 チーム内勉強会資料その1 : JSON Web Token](https://ritou.hatenablog.com/entry/2020/06/08/050000)
 
 ### SAML
 - [进宫 SAML 2.0 安全](https://paper.seebug.org/2006/)
