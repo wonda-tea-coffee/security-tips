@@ -63,6 +63,8 @@
 - [趣味のプログラミングで博士号を取った社会人の覚え書き](https://zenn.dev/canard0328/articles/memorandum-of-phd)
 - [See Yourself in Cyber with OffSec: Penetration Testing](https://www.offensive-security.com/penetration-testing/see-yourself-as-a-pentester/)
 - [Cyber Security Career Pathways](https://blog.marcolancini.it/2022/blog-cyber-security-career-pathways/)
+- [A rough guide to launching a career in cybersecurity](https://portswigger.net/daily-swig/a-rough-guide-to-launching-a-career-in-cybersecurity)
+- [How to become a penetration tester: Part 1 – your path into offensive security testing](https://portswigger.net/daily-swig/how-to-become-a-penetration-tester-part-1-your-path-into-offensive-security-testing)
 
 ## Case Study
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
