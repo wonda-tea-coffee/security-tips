@@ -93,6 +93,7 @@
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
 - [Ratchet](https://github.com/sethvargo/ratchet)
+- [未知の脅威に対抗するメルカリのCI再設計](https://engineering.mercari.com/blog/entry/20220203-defense-against-novel-threats-redesigning-ci-at-mercari/)
 
 ### CircleCI
 - [CircleCI Docs Security recommendations](https://circleci.com/docs/2.0/security-recommendations/)
