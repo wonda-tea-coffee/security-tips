@@ -235,6 +235,7 @@
 - [Keeping your GitHub Actions and workflows secure Part 3: How to trust your building blocks](https://securitylab.github.com/research/github-actions-building-blocks/)
 - [GitGoat](https://github.com/arnica-ext/GitGoat)
 - [How to protect yourself against GitHub/OAuth Apps Supply Chain Attacks](https://www.arnica.io/blog/how-to-protect-yourself-against-github-oauth-apps-supply-chain-attacks)
+- [Composite Action実践ガイド：GitHub Actionsのメンテナンス性を高める技法](https://zenn.dev/tmknom/books/pragmatic-composite-action)
 
 ## Golang
 - [ソースコードから脆弱性を見つけよう](https://docs.google.com/presentation/d/1XlgYzmGiAvh2XM4fcjX9dZCpjcDTHuGHjSojlhz9X8w/edit#slide=id.p)
