@@ -37,6 +37,10 @@
 - [Webブラウザセキュリティ ― Webアプリケーションの安全性を支える仕組みを整理する](https://www.lambdanote.com/products/wbs)
 
 ## Bug Bounty
+### Company
+- [cybozu](https://cybozu.co.jp/products/bug-bounty/?_gl=1*f7188t*_ga*MTcyNDg1MzM5OC4xNjcwMzkzODM4*_ga_T5K95WXL54*MTY3MDM5MzgzNy4xLjAuMTY3MDM5MzgzNy42MC4wLjA.&_ga=2.194586925.1283897749.1670393838-1724853398.1670393838)
+- [LINE](https://bugbounty.linecorp.com/)
+
 ### Platform
 - [IssueHunt](https://bounty.issuehunt.io/company)
 - [HackerOne](https://www.hackerone.com/)
