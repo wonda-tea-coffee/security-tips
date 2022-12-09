@@ -81,6 +81,7 @@
 - [全リージョン、複数AWSアカウントのAWS Security Hubのコントロールをコードで統制・管理する](https://tech.pepabo.com/2022/08/09/security-hub-controls/)
 - [Zoncolan: How Facebook uses static analysis to detect and prevent security issues](https://engineering.fb.com/2019/08/15/security/zoncolan/)
 - [セキュリティを測定可能にする技術](https://medium.com/eureka-engineering/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%92%E6%B8%AC%E5%AE%9A%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93-8ee94625ee47)
+- [脅威 Intelligence と log 運用](https://developers.freee.co.jp/entry/threat-intelligence-and-log)
 
 ## Certification
 - [情報処理技術者試験・情報処理安全確保支援士](https://www.jitec.ipa.go.jp/1_11seido/seido_gaiyo.html)
