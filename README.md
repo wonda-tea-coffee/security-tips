@@ -519,6 +519,7 @@
 - [セキュリティ研修【ミクシィ22新卒技術研修】](https://speakerdeck.com/mixi_engineers/2022-security-training)
 - [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
 - [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
+- [Cache 解体新書](https://zenn.dev/jxck/books/cache-anatomia)
 - [SPAセキュリティ超入門](https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022)
 - [リアルワールドバグハンティング――ハッキング事例から学ぶウェブの脆弱性](https://www.oreilly.co.jp/books/9784873119212/)
 
