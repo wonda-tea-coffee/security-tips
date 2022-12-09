@@ -259,6 +259,7 @@
 - [Github](https://github.com/about/careers)
 - [mercari](https://apply.workable.com/mercari/)
 - [PayPay](https://about.paypay.ne.jp/career/)
+- [SanSan](https://jp.corp-sansan.com/recruit/)
 - [Speee](https://open.talentio.com/r/1/c/speee/pages/43246)
 - [デジタル庁](https://herp.careers/v1/digitalsaiyo/7dtwfs9hOlvE)
 
