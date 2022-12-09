@@ -80,7 +80,6 @@
 - [How Flipkart Reacts to Security Vulnerabilities](https://blog.flipkart.tech/how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e)
 - [全リージョン、複数AWSアカウントのAWS Security Hubのコントロールをコードで統制・管理する](https://tech.pepabo.com/2022/08/09/security-hub-controls/)
 - [Zoncolan: How Facebook uses static analysis to detect and prevent security issues](https://engineering.fb.com/2019/08/15/security/zoncolan/)
-- [2022.11.14 プロダクトセキュリティのはじめ方 in Ubie](https://docs.google.com/presentation/d/1ygKmi4AH8C6zhKUW_1t8hz-FA9xbjblWBU4XaRtJRLM/edit#slide=id.g12324f065a8_0_0)
 - [セキュリティを測定可能にする技術](https://medium.com/eureka-engineering/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%92%E6%B8%AC%E5%AE%9A%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93-8ee94625ee47)
 
 ## Certification
@@ -191,6 +190,8 @@
 - [OWASP DevSecOps Maturity Model](https://dsomm.timo-pagel.de/)
 - [セキュリティ・バイ・デザイン導入指南書](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/security-by-design.html)
 - [DevOpsSec](https://www.oreilly.com/library/view/devopssec/9781491971413/)
+- [2022.11.14 プロダクトセキュリティのはじめ方 in Ubie](https://docs.google.com/presentation/d/1ygKmi4AH8C6zhKUW_1t8hz-FA9xbjblWBU4XaRtJRLM/edit#slide=id.g12324f065a8_0_0)
+- [Web サービススタートアップにおけるプロダクトセキュリティの始め方](https://zenn.dev/mizutani/articles/web-startup-prodsec)
 
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
