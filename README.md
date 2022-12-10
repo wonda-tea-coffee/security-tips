@@ -261,7 +261,7 @@
 - [PayPay](https://about.paypay.ne.jp/career/)
 - [SanSan](https://jp.corp-sansan.com/recruit/)
 - [Speee](https://open.talentio.com/r/1/c/speee/pages/43246)
-- [デジタル庁](https://herp.careers/v1/digitalsaiyo/7dtwfs9hOlvE)
+- [デジタル庁](https://herp.careers/v1/digitalsaiyo/requisition-groups/906b6d65-b753-42ee-8860-5f1a56720bb4)
 
 ## Law
 - [Wizard Bible事件から考えるサイバーセキュリティ](https://peaks.cc/books/wizard_bible_security)
