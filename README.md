@@ -193,6 +193,7 @@
 - [DevOpsSec](https://www.oreilly.com/library/view/devopssec/9781491971413/)
 - [2022.11.14 プロダクトセキュリティのはじめ方 in Ubie](https://docs.google.com/presentation/d/1ygKmi4AH8C6zhKUW_1t8hz-FA9xbjblWBU4XaRtJRLM/edit#slide=id.g12324f065a8_0_0)
 - [Web サービススタートアップにおけるプロダクトセキュリティの始め方](https://zenn.dev/mizutani/articles/web-startup-prodsec)
+- [エウレカのDevSecOps](https://medium.com/eureka-engineering/devsecops-at-eureka-7182447fd8c)
 
 ## eBPF
 - [eBPFってなんだ？](https://dev.classmethod.jp/articles/202207-report-ebpf-newrelic-devio22/)
