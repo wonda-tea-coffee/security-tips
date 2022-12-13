@@ -443,6 +443,9 @@
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security/xxe)
 - [How to find and fix XML entity vulnerabilities](https://snyk.io/blog/find-and-fix-xml-entity-vulnerabilities/)
 
+### Uncategorized
+- [DataBinding2Shell](https://i.blackhat.com/EU-22/Wednesday-Briefings/EU-22-Mu-Databinding2Shell-Novel-Pathways-to-RCE-Web-Frameworks.pdf)
+
 ## Threat Intelligence
 - [脅威インテリジェンスの教科書](https://gihyo.jp/book/2022/978-4-297-12457-1)
 
