@@ -439,6 +439,9 @@
 - [AngularJS Sandbox Bypass Collection](https://pastebin.com/xMXwsm0N)
 - [Attacking web wihout JS - CSS injection](https://speakerdeck.com/aszx87410/attacking-web-without-js-css-injection)
 
+### XS-Leaks
+- [XS-Leaks Wiki](https://xsleaks.dev/)
+
 ### XXE
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security/xxe)
 - [How to find and fix XML entity vulnerabilities](https://snyk.io/blog/find-and-fix-xml-entity-vulnerabilities/)
