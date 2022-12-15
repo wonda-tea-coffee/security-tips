@@ -399,6 +399,7 @@
 
 ### Uncategorized
 - [改ざんできないビルドでソフトウェア サプライ チェーンのセキュリティを改善する](https://developers-jp.googleblog.com/2022/05/improving-software-supply-chain.html)
+- [サプライチェーンセキュリティにおける脅威と対策の再評価](https://engineering.mercari.com/blog/entry/20221215-supplychain-security-reevaluation/)
 
 ### npm
 - [NPM security: preventing supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/)
