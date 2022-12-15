@@ -468,7 +468,7 @@
 - [vuls](https://github.com/future-architect/vuls)
 - [dependency track](https://dependencytrack.org/)
 - [bundler-audit](https://github.com/rubysec/bundler-audit)
-  - rubygems
+- [OSV-Scanner](https://github.com/google/osv-scanner)
 
 ### Docker
 - [Docker Bench for Security](https://github.com/docker/docker-bench-security)
