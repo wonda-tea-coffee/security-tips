@@ -551,3 +551,7 @@
 ## Zero Trust
 - [ゼロトラスト移行のすゝめ](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/zero-trust-mgn.html)
 - [ゼロトラストセキュリティ入門](https://www.nri-secure.co.jp/download/zerotrust-security)
+
+## Other
+- [Web & Browser Security](https://anchor.fm/shhnjk/episodes/Web-e1s9jjl/a-a923e6v)
+  - Webとブラウザセキュリティの話を扱うポッドキャスト
