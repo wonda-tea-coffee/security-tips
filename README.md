@@ -417,6 +417,9 @@
 ### Cookie
 - [Cookie Prefixのバイパス](https://www.mbsd.jp/research/20221005/cookie-prefix/)
 
+### CORS Misconfigurations
+- [Exploiting CORS Misconfigurations](https://attackshipsonfi.re/p/exploiting-cors-misconfigurations)
+
 ### CSRF
 - [検出例から学ぶクロスサイトリクエストフォージェリ](https://www.mbsd.jp/research/20220617/blog/)
 
