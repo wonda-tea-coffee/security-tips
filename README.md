@@ -383,8 +383,9 @@
 ## Study Platform
 - [CS50 for Japanese: コンピュータサイエンスの入門](https://cs50.jp/)
 - [Hack The Box](https://www.hackthebox.com/)
-- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
 - [TryHackMe](https://tryhackme.com/)
+- [TCM Security Academy](https://academy.tcm-sec.com/)
+- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
 - [Linkedin Learning](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=security&language=en_US&spellcheck=true)
 - [VulnHub](https://www.vulnhub.com/)
 - [PG play / PG Practice](https://www.offensive-security.com/labs/individual/)
