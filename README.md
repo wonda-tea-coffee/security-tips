@@ -323,6 +323,7 @@
 
 ## Secret Management
 - [Best practices for managing and storing secrets including API keys and other credentials [cheat sheet included]](https://blog.gitguardian.com/secrets-api-management/)
+- [機密情報が間違ってログ出力されたことを検知する仕組みを、Datadogのセンシティブデータスキャナーで作る](https://tech.plaid.co.jp/datadog_sensitive_data_detection)
 
 ## Shell
 - [実践 bashによるサイバーセキュリティ対策――セキュリティ技術者のためのシェルスクリプト活用術](https://www.oreilly.co.jp/books/9784873119052/)
