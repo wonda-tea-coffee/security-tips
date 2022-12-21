@@ -548,6 +548,9 @@
 - [マイクロサービス／分散モノリス的アーキテクチャへの攻撃手法](https://gmo-cybersecurity.com/news/security_camp_presentation_slide_20220901/)
 - [XMLHttpRequest とはなんだったのか](https://blog.jxck.io/entries/2022-09-30/XMLHttpRequest.html)
 
+### WASM
+- [Wasmはなぜセキュアなのか？](https://zenn.dev/0kate/articles/83e48c177ff709)
+
 ## Webhook
 - [How to secure Twilio webhook URLs in Node.js](https://www.twilio.com/blog/how-to-secure-twilio-webhook-urls-in-nodejs)
 - [Best practices for creating secure webhooks](https://snyk.io/blog/creating-secure-webhooks/)
