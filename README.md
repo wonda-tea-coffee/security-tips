@@ -540,6 +540,7 @@
 - [Cache 解体新書](https://zenn.dev/jxck/books/cache-anatomia)
 - [SPAセキュリティ超入門](https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022)
 - [リアルワールドバグハンティング――ハッキング事例から学ぶウェブの脆弱性](https://www.oreilly.co.jp/books/9784873119212/)
+- [フロントエンド開発のためのセキュリティ入門 知らなかったでは済まされない脆弱性対策の必須知識](https://www.shoeisha.co.jp/book/detail/9784798170602)
 
 ### HTTP
 - [HTTP/3入門 進化するHTTPの歩み](https://gihyo.jp/admin/serial/01/http3/0001?summary)
