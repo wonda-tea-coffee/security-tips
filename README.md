@@ -398,6 +398,7 @@
 - [Pentester Academy](https://www.pentesteracademy.com/)
 - [AWS 日本語ハンズオン](https://aws-samples.github.io/jp-contents-hub/)
 - [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html)
+- [CyberDefenders](https://cyberdefenders.org/)
 
 ## Supply Chain
 ### SLSA
