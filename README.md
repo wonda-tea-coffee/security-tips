@@ -283,6 +283,9 @@
 ## Machine Learning
 - [セキュリティエンジニアのための機械学習――AI技術によるサイバーセキュリティ対策入門](https://www.oreilly.co.jp/books/9784873119076/)
 
+## Mail
+- [電子メール技術移転：メールプロトコル勉強会をチームで開催してみた](https://heartbeats.jp/hbblog/2022/12/email-protocol.html)
+
 ## Malware
 - [マルウエアの教科書](https://www.amazon.co.jp/dp/B0BF8CC4X2)
 
