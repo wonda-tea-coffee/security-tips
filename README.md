@@ -131,6 +131,7 @@
 - [Cloud Risk Encyclopedia](https://orca.security/resources/cloud-risk-encyclopedia/)
 - [The Open Cloud Vulnerability & Security Issue Database](https://www.cloudvulndb.org/)
 - [クラウドネイティブセキュリティ入門](https://www.amazon.co.jp/dp/B096TGTN53/)
+- [実事例で学ぶクラウドコンピュートのクレデンシャル侵害](https://unit42.paloaltonetworks.jp/compromised-cloud-compute-credentials/)
 
 ### IaC
 - [セキュアなTerraformの使い方](https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse)
