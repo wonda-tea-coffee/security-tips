@@ -327,6 +327,7 @@
 - [How to hack with ransack](https://younes.codes/posts/how-to-hack-with-ransack)
 - [Round Two: An Updated Universal Deserialisation Gadget for Ruby 2.x-3.x](https://devcraft.io/2022/04/04/universal-deserialisation-gadget-for-ruby-2-x-3-x.html)
 - [Security Best Practices for Your Rails Application](https://blog.appsignal.com/2022/10/05/security-best-practices-for-your-rails-application.html)
+- [研鑽Rubyプログラミング β版](https://www.lambdanote.com/products/products-polished-ruby-beta)
 
 ## Risk Analysis
 - [制御システムのセキュリティリスク分析ガイド](https://www.ipa.go.jp/security/controlsystem/riskanalysis.html)
