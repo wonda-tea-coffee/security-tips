@@ -126,6 +126,7 @@
 - [クラウド破産を回避する AWS実践ガイド](https://booth.pm/ja/items/1994587)
 - [スタートアップ企業で始めるAWSセキュリティ対策 ～内部統制の観点から～](https://speakerdeck.com/yuj1osm/aws-security-and-internal-audit-at-a-startup)
 - [Security best practices for Amazon RDS for MySQL and MariaDB instances](https://aws.amazon.com/jp/blogs/database/security-best-practices-for-amazon-rds-for-mysql-and-mariadb-instances/)
+- [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
