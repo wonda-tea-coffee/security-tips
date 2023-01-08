@@ -127,6 +127,10 @@
 - [スタートアップ企業で始めるAWSセキュリティ対策 ～内部統制の観点から～](https://speakerdeck.com/yuj1osm/aws-security-and-internal-audit-at-a-startup)
 - [Security best practices for Amazon RDS for MySQL and MariaDB instances](https://aws.amazon.com/jp/blogs/database/security-best-practices-for-amazon-rds-for-mysql-and-mariadb-instances/)
 - [AWS Security Incident Response Guide](https://docs.aws.amazon.com/whitepapers/latest/aws-security-incident-response-guide/aws-security-incident-response-guide.html)
+- [Unauthorized IAM Credential Use - Simulation and Detection](https://catalog.workshops.aws/aws-cirt-unauthorized-iam-credential-use/en-US)
+- [Cryptominer Based Security Events - Simulation and Detection](https://catalog.workshops.aws/aws-cirt-cryptominer-simulation-and-detection/en-US)
+- [SSRF on IMDSv1 - Simulation and Detection](https://catalog.workshops.aws/aws-cirt-ssrf-imdsv1-simulation-and-detection/en-US)
+- [AWS CIRT Toolkit For Incident Response Preparedness](https://catalog.workshops.aws/aws-cirt-toolkit-for-incident-response-preparedness/en-US)
 
 ### General
 - [クラウドコンピューティングのためのセキュリティガイダンス](https://www.cloudsecurityalliance.jp/guidance.html)
