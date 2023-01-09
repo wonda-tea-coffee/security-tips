@@ -97,6 +97,7 @@
 - [The Linux Foundation](https://training.linuxfoundation.org/ja/full-catalog/?_sft_product_type=certification&trp-form-language=ja)
 - [HTB Academy](https://academy.hackthebox.com/preview/certifications/)
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [Linux Professional Institute LPIC-3 セキュリティ](https://www.lpi.org/ja/our-certifications/lpic-3-303-overview)
 
 ## CI/CD
 - [StepSecurity - Produce Software With Confidence](https://app.stepsecurity.io/)
