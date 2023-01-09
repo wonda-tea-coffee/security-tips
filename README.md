@@ -13,7 +13,7 @@
 - [OAuth 2.0 Security Best Current Practice draft-ietf-oauth-security-topics-19](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-19#section-4.2.4)
 - [雰囲気で使わずきちんと理解する！整理してOAuth2.0を使うためのチュートリアルガイド](https://www.amazon.co.jp/dp/B07XT8H2YG)
 - [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
-- [OAuth & OIDC 勉強会 【入門編】](https://www.authlete.com/ja/resources/videos/20200317/)
+- [OAuth & OIDC 勉強会 【入門編】](https://www.authlete.comF/ja/resources/videos/20200317/)
 - [OAuth & OIDC 勉強会 【アクセストークン編】](https://www.authlete.com/ja/resources/videos/20200422/)
 
 ### JWT
@@ -416,6 +416,7 @@
 - [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html)
 - [CyberDefenders](https://cyberdefenders.org/)
 - [Cognicull](https://cognicull.com/)
+- [Applied Network Defense](https://www.networkdefense.co/)
 
 ## Supply Chain
 ### SLSA
