@@ -503,6 +503,9 @@
 ### Docker
 - [Docker Bench for Security](https://github.com/docker/docker-bench-security)
 
+### ImageMagick
+- [ImageMagick Security Policy Scanner](https://imagemagick-secevaluator.doyensec.com/)
+
 ### Open Source Health Check
 - [snyk Advisor](https://snyk.io/advisor/)
 - [Deadpendency](https://deadpendency.com/)
