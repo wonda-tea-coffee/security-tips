@@ -521,6 +521,7 @@
 ### Secret Scan
 - [GitGuardian](https://www.gitguardian.com/)
 - [gitleaks](https://github.com/zricethezav/gitleaks)
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog)
 
 ### SBOM
 - [SBOM Tool](https://github.com/microsoft/sbom-tool)
