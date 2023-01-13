@@ -90,10 +90,14 @@
 - [情報処理技術者試験・情報処理安全確保支援士](https://www.jitec.ipa.go.jp/1_11seido/seido_gaiyo.html)
 - [認定脆弱性診断士](https://www.gsx.co.jp/services/securitylearning/securist/webappnwsecuritytesting.html)
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+  - 有効期限：5年間
 - [OFFENSIVE SECURITY](https://www.offensive-security.com/courses-and-certifications/)
+  - 有効期限：無期限
 - [(ISC)^2](https://japan.isc2.org/intro_index.html)
 - [EC-Council](https://www.eccouncil.org/programs/)
 - [AWS Certified Security - Specialty](https://aws.amazon.com/jp/certification/certified-security-specialty/)
+  - 有効期限：3年間
+  - https://aws.amazon.com/jp/certification/recertification/
 - [The Linux Foundation](https://training.linuxfoundation.org/ja/full-catalog/?_sft_product_type=certification&trp-form-language=ja)
 - [HTB Academy](https://academy.hackthebox.com/preview/certifications/)
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
