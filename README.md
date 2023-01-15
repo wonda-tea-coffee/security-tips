@@ -26,7 +26,7 @@
 
 ## Binary
 - [はじめて学ぶバイナリ解析　不正なコードからコンピュータを守るサイバーセキュリティ技術](https://tatsu-zine.com/books/binary-analysis)
-- [実践バイナリ解析　バイナリ計装、解析、逆アセンブリのためのLinuxツールの作り方](https://www.amazon.co.jp/dp/B09QLQ8DWG/)
+- [実践バイナリ解析　バイナリ計装、解析、逆アセンブリのためのLinuxツールの作り方](https://tatsu-zine.com/books/practical-binary-analysis)
 - [Hacking：美しき策謀 第2版――脆弱性攻撃の理論と実際](https://www.oreilly.co.jp/books/9784873115146/)
 
 ## Browser
