@@ -11,7 +11,7 @@
 
 ### OAuth
 - [OAuth 2.0 Security Best Current Practice draft-ietf-oauth-security-topics-19](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-19#section-4.2.4)
-- [雰囲気で使わずきちんと理解する！整理してOAuth2.0を使うためのチュートリアルガイド](https://www.amazon.co.jp/dp/B07XT8H2YG)
+- [雰囲気で使わずきちんと理解する！整理してOAuth2.0を使うためのチュートリアルガイド](https://tatsu-zine.com/books/oauth2-tutorial-guide)
 - [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
 - [OAuth & OIDC 勉強会 【入門編】](https://www.authlete.comF/ja/resources/videos/20200317/)
 - [OAuth & OIDC 勉強会 【アクセストークン編】](https://www.authlete.com/ja/resources/videos/20200422/)
@@ -25,7 +25,7 @@
 - [进宫 SAML 2.0 安全](https://paper.seebug.org/2006/)
 
 ## Binary
-- [はじめて学ぶバイナリ解析　不正なコードからコンピュータを守るサイバーセキュリティ技術](https://www.amazon.co.jp/dp/B084R85269/)
+- [はじめて学ぶバイナリ解析　不正なコードからコンピュータを守るサイバーセキュリティ技術](https://tatsu-zine.com/books/binary-analysis)
 - [実践バイナリ解析　バイナリ計装、解析、逆アセンブリのためのLinuxツールの作り方](https://www.amazon.co.jp/dp/B09QLQ8DWG/)
 - [Hacking：美しき策謀 第2版――脆弱性攻撃の理論と実際](https://www.oreilly.co.jp/books/9784873115146/)
 
