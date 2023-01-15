@@ -3,7 +3,7 @@
 - [Android Security 安全なアプリケーションを作成するために](https://book.impress.co.jp/books/3134)
 
 ## Architecture
-- [セキュア・バイ・デザイン](https://www.amazon.co.jp/dp/B09F697K2V/)
+- [セキュア・バイ・デザイン](https://book.mynavi.jp/ec/products/detail/id=124056)
 
 ## Authentication / Authorization
 ### General
