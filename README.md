@@ -143,6 +143,7 @@
 - [The Open Cloud Vulnerability & Security Issue Database](https://www.cloudvulndb.org/)
 - [クラウドネイティブセキュリティ入門](https://www.amazon.co.jp/dp/B096TGTN53/)
 - [実事例で学ぶクラウドコンピュートのクレデンシャル侵害](https://unit42.paloaltonetworks.jp/compromised-cloud-compute-credentials/)
+- [Hunting for signs of persistence in the cloud: an IR guide following the CircleCI incident](https://www.wiz.io/blog/hunting-for-signs-of-persistence-in-the-cloud-an-ir-guide)
 
 ### IaC
 - [セキュアなTerraformの使い方](https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse)
@@ -598,3 +599,4 @@
 - [Web & Browser Security](https://anchor.fm/shhnjk/episodes/Web-e1s9jjl/a-a923e6v)
   - Webとブラウザセキュリティの話を扱うポッドキャスト
 - [Fox on Security](https://foxsecurity.hatenablog.com/)
+- [piyolog](https://piyolog.hatenadiary.jp/)
