@@ -157,7 +157,7 @@
 - [Dockerfile best practices](https://github.com/hexops/dockerfile)
 
 ### General
-- [コンテナのセキュリティを 中身から理解しよう](https://speakerdeck.com/udzura/inside-out-container-and-its-security)
+- [コンテナのセキュリティを中身から理解しよう](https://speakerdeck.com/udzura/inside-out-container-and-its-security)
 - [[AWS Black Belt Online Seminar] コンテナセキュリティ入門](https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-container-security-introduction/)
 - [アプリケーションコンテナセキュリティガイド](https://www.ipa.go.jp/files/000085279.pdf)
 - [container-dev-security](https://speakerdeck.com/mochizuki875/container-dev-security)
