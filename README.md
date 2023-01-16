@@ -229,6 +229,8 @@
 - [OWASP アプリケーションセキュリティ標準 4.0](https://github.com/OWASP/ASVS/blob/master/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.1-ja.pdf)
 - [OWASP SECURITY ASSURANCE MATURITY MODEL](https://owaspsamm.org/)
 - [Secure Software Development Framework](https://csrc.nist.gov/Projects/ssdf)
+- [CIS Controls](https://learn.cisecurity.org/cis-controls-download?_fsi=GtwhcE8J)
+- NIST SP 800-53
 
 ## Fuzzing
 - [t-reqs](https://github.com/bahruzjabiyev/t-reqs)
@@ -291,6 +293,7 @@
 
 ## Law
 - [Wizard Bible事件から考えるサイバーセキュリティ](https://peaks.cc/books/wizard_bible_security)
+- [サイバーセキュリティ関係法令Q＆Aハンドブック](https://security-portal.nisc.go.jp/law_handbook/index.html)
 
 ## Log Management
 - [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
