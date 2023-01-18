@@ -13,7 +13,7 @@
 - [OAuth 2.0 Security Best Current Practice draft-ietf-oauth-security-topics-19](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-19#section-4.2.4)
 - [雰囲気で使わずきちんと理解する！整理してOAuth2.0を使うためのチュートリアルガイド](https://tatsu-zine.com/books/oauth2-tutorial-guide)
 - [【電子版】OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本](https://booth.pm/ja/items/1550861)
-- [OAuth & OIDC 勉強会 【入門編】](https://www.authlete.comF/ja/resources/videos/20200317/)
+- [OAuth & OIDC 勉強会 【入門編】](https://www.authlete.com/ja/resources/videos/20200317/)
 - [OAuth & OIDC 勉強会 【アクセストークン編】](https://www.authlete.com/ja/resources/videos/20200422/)
 
 ### JWT
