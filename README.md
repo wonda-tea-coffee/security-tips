@@ -1,5 +1,6 @@
 # security-tips
 - [Cloud](./cloud.md)
+- [Malware](./malware.md)
 
 ## Android
 - [Android Security 安全なアプリケーションを作成するために](https://book.impress.co.jp/books/3134)
@@ -266,9 +267,6 @@
 
 ## Mail
 - [電子メール技術移転：メールプロトコル勉強会をチームで開催してみた](https://heartbeats.jp/hbblog/2022/12/email-protocol.html)
-
-## Malware
-- [マルウエアの教科書](https://www.amazon.co.jp/dp/B0BF8CC4X2)
 
 ## Monitoring
 - [入門 監視――モダンなモニタリングのためのデザインパターン](https://www.oreilly.co.jp//books/9784873118642/index.html)
