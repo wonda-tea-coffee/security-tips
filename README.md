@@ -1,6 +1,7 @@
 # security-tips
 - [Cloud](./cloud.md)
 - [Malware](./malware.md)
+- [Study Platform](./study-platform.md)
 
 ## Android
 - [Android Security 安全なアプリケーションを作成するために](https://book.impress.co.jp/books/3134)
@@ -369,23 +370,6 @@
 - [「攻撃テクニック」を学ぶ方法｜高度なセキュリティを実現する組織の在り方](https://www.nri-secure.co.jp/blog/attack-techniques-in-linux-environment)
 - [A rough guide to launching a career in cybersecurity](https://portswigger.net/daily-swig/a-rough-guide-to-launching-a-career-in-cybersecurity)
 - [PENTESTERLAB BOOTCAMP](https://pentesterlab.com/bootcamp)
-
-## Study Platform
-- [CS50 for Japanese: コンピュータサイエンスの入門](https://cs50.jp/)
-- [Hack The Box](https://www.hackthebox.com/)
-- [TryHackMe](https://tryhackme.com/)
-- [TCM Security Academy](https://academy.tcm-sec.com/)
-- [PortSwigger Web Secrity Academy](https://portswigger.net/web-security)
-- [Linkedin Learning](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=security&language=en_US&spellcheck=true)
-- [VulnHub](https://www.vulnhub.com/)
-- [PG play / PG Practice](https://www.offensive-security.com/labs/individual/)
-- [PentesterLab](https://pentesterlab.com/)
-- [Pentester Academy](https://www.pentesteracademy.com/)
-- [AWS 日本語ハンズオン](https://aws-samples.github.io/jp-contents-hub/)
-- [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html)
-- [CyberDefenders](https://cyberdefenders.org/)
-- [Cognicull](https://cognicull.com/)
-- [Applied Network Defense](https://www.networkdefense.co/)
 
 ## Supply Chain
 ### SLSA
