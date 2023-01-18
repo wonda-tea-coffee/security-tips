@@ -6,3 +6,4 @@
 - NIST SP 800-53
 - [サイバーセキュリティ経営ガイドライン解説書](https://www.ipa.go.jp/security/economics/csmgl-kaisetsusho.html)
 - [サイバーセキュリティ経営ガイドライン Ver 2.0実践のためのプラクティス集](https://www.ipa.go.jp/security/fy30/reports/ciso/index.html)
+- [サイバーセキュリティ経営ガイドラインと支援ツール](https://www.meti.go.jp/policy/netsecurity/mng_guide.html)

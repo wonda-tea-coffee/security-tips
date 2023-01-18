@@ -1,8 +1,12 @@
 # security-tips
+- [CISO](./ciso.md)
 - [Cloud](./cloud.md)
+- [Cryptography](./cryptography.md)
+- [DNS](./dns.md)
 - [Framework](./framework.md)
 - [Malware](./malware.md)
 - [Study Platform](./study-platform.md)
+- [Other](./other.md)
 
 ## Android
 - [Android Security 安全なアプリケーションを作成するために](https://book.impress.co.jp/books/3134)
@@ -255,6 +259,7 @@
 
 ## Log Management
 - [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
+- [高度サイバー攻撃への対処におけるログの活用と分析方法](https://www.jpcert.or.jp/research/apt-loganalysis.html)
 
 ## Machine Learning
 - [セキュリティエンジニアのための機械学習――AI技術によるサイバーセキュリティ対策入門](https://www.oreilly.co.jp/books/9784873119076/)
@@ -399,10 +404,6 @@
 ### Deserialization
 - [NotSoCereal-Lab: A Deserialization exploit playground](https://notsosecure.com/notsocereal-lab-deserialization-exploit-playground)
 
-### DNS
-- [DNSリバインディング(DNS Rebinding)対策総まとめ](https://blog.tokumaru.org/2022/05/dns-rebinding-protection.html)
-- [忘れ去られたドメイン名に宿る付喪神](https://eng-blog.iij.ad.jp/archives/15199)
-
 ### Drive-by attacks
 - [Why are developers so vulnerable to drive-by attacks?](https://about.gitlab.com/blog/2021/09/07/why-are-developers-vulnerable-to-driveby-attacks/)
 
@@ -536,8 +537,3 @@
 - [ゼロトラスト移行のすゝめ](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/zero-trust-mgn.html)
 - [ゼロトラストセキュリティ入門](https://www.nri-secure.co.jp/download/zerotrust-security)
 
-## Other
-- [Web & Browser Security](https://anchor.fm/shhnjk/episodes/Web-e1s9jjl/a-a923e6v)
-  - Webとブラウザセキュリティの話を扱うポッドキャスト
-- [Fox on Security](https://foxsecurity.hatenablog.com/)
-- [piyolog](https://piyolog.hatenadiary.jp/)

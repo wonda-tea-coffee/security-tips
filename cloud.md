@@ -31,6 +31,7 @@
 - [実事例で学ぶクラウドコンピュートのクレデンシャル侵害](https://unit42.paloaltonetworks.jp/compromised-cloud-compute-credentials/)
 - [Hunting for signs of persistence in the cloud: an IR guide following the CircleCI incident](https://www.wiz.io/blog/hunting-for-signs-of-persistence-in-the-cloud-an-ir-guide)
 - [クラウドサービスの暗号鍵管理 – BYOKやってみたシリーズ 基礎編](https://blog.cloudnative.co.jp/14091/)
+- [クラウドコンピューティング　情報セキュリティに関わる利点、リスクおよび推奨事項](https://www.ipa.go.jp/security/publications/enisa/documents/Cloud%20Computing%20Security%20Risk%20Assessment.pdf)
 
 ## IaC
 - [セキュアなTerraformの使い方](https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse)
