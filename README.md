@@ -1,4 +1,4 @@
-# security-tips
+# Security Tips
 - [CISO](./ciso.md)
 - [Cloud](./cloud.md)
 - [Cryptography](./cryptography.md)
