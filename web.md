@@ -1,0 +1,12 @@
+# Web
+- [安全なWebアプリケーションの作り方](https://wasbook.org/)
+- [web.dev 安全とセキュリティ](https://web.dev/secure/)
+- [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
+- [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
+- [サイボウズ セキュリティ 開運研修2022](https://speakerdeck.com/cybozuinsideout/security-2022)
+- [セキュリティ研修【ミクシィ22新卒技術研修】](https://speakerdeck.com/mixi_engineers/2022-security-training)
+- [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
+- [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
+- [Cache 解体新書](https://zenn.dev/jxck/books/cache-anatomia)
+- [SPAセキュリティ超入門](https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022)
+- [フロントエンド開発のためのセキュリティ入門 知らなかったでは済まされない脆弱性対策の必須知識](https://www.shoeisha.co.jp/book/detail/9784798170602)

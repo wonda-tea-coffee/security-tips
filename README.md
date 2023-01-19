@@ -1,11 +1,20 @@
 # Security Tips
+- [Binary](./binary.md)
 - [CISO](./ciso.md)
 - [Cloud](./cloud.md)
 - [Cryptography](./cryptography.md)
+- [CSIRT](./csirt.md)
+- [CTF](./ctf.md)
 - [DNS](./dns.md)
 - [Framework](./framework.md)
+- [Hacking](./hacking.md)
+- [History](./history.md)
+- [JavaScript](./javascript.md)
+- [Law](./law.md)
+- [Machine Learning](./machine-learning.md)
 - [Malware](./malware.md)
 - [Study Platform](./study-platform.md)
+- [Web](./web.md)
 - [Other](./other.md)
 
 ## Android
@@ -32,11 +41,6 @@
 
 ### SAML
 - [进宫 SAML 2.0 安全](https://paper.seebug.org/2006/)
-
-## Binary
-- [はじめて学ぶバイナリ解析　不正なコードからコンピュータを守るサイバーセキュリティ技術](https://tatsu-zine.com/books/binary-analysis)
-- [実践バイナリ解析　バイナリ計装、解析、逆アセンブリのためのLinuxツールの作り方](https://tatsu-zine.com/books/practical-binary-analysis)
-- [Hacking：美しき策謀 第2版――脆弱性攻撃の理論と実際](https://www.oreilly.co.jp/books/9784873115146/)
 
 ## Browser
 - [電子情報学特論：Chromiumのアーキテクチャを解き明かす](https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o)
@@ -147,19 +151,6 @@
 - [業務する環境をセキュアにした話 その5](https://techtekt.persol-career.co.jp/entry/tech/220606_01)
 - [業務する環境をセキュアにした話 その6](https://techtekt.persol-career.co.jp/entry/tech/220823_01)
 
-## CSIRT
-- [実践 CSIRTプレイブック――セキュリティ監視とインシデント対応の基本計画](https://www.oreilly.co.jp/books/9784873118383/)
-
-## CTF
-- [【2018年】CTF Web問題のwriteupぜんぶ読む](https://graneed.hatenablog.com/entry/2018/12/16/003745)
-- [【2019年】CTF Web問題の攻撃手法まとめ (Web問題のwriteupぜんぶ読む)](https://graneed.hatenablog.com/entry/2019/12/29/115100)
-- [【2020年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2021/08/09/115452)
-- [【2021年】CTF Web問題の攻撃手法まとめ](https://graneed.hatenablog.com/entry/2022/09/28/100000)
-- [CTF Cloud 問題の攻撃手法まとめ(2021年版)](https://scgajge12.hatenablog.com/entry/ctf_cloud_2021)
-- [入門セキュリティコンテスト CTFを解きながら学ぶ実戦技術](https://gihyo.jp/book/2022/978-4-297-13180-7)
-- [詳解セキュリティコンテスト ~CTFで学ぶ脆弱性攻略の技術](https://www.amazon.co.jp/dp/B094J7ZCJN)
-- [セキュリティコンテストチャレンジブック　CTFで学ぼう！情報を守るための戦い方](https://www.amazon.co.jp/dp/B017X3D3GE)
-
 ## Curation List
 - [Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security)
 - [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
@@ -187,9 +178,6 @@
 
 ## Education
 - [従業員向けセキュリティ教育のネタ](https://zenn.dev/cestquigucci/articles/8079939a6a7249)
-
-## Encryption
-- [暗号鍵設定ガイダンス～暗号鍵の鍵長選択方法と運用方法～](https://www.ipa.go.jp/security/vuln/ckms_setting.html)
 
 ## English
 - [セキュリティエンジニアのための English Reading](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/english-reading.html)
@@ -228,9 +216,6 @@
 - [ソースコードから脆弱性を見つけよう](https://docs.google.com/presentation/d/1XlgYzmGiAvh2XM4fcjX9dZCpjcDTHuGHjSojlhz9X8w/edit#slide=id.p)
 - [OWASP Secure Coding Practices(日本語版)](https://github.com/techtouch-inc/Go-SCP-jaJP)
 
-## History
-- [情報セキュリティの敗北史](https://www.hakuyo-sha.co.jp/science/security/)
-
 ## HTML
 - [HTML5 Security Cheatsheet](https://html5sec.org/)
 - [Securely embed content on your site](https://developer.chrome.com/en/blog/embed-content/)
@@ -241,9 +226,6 @@
 ## iOS
 - [iOSアプリのセキュアコーディング入門](https://www.jssec.org/dl/20160323_Ikuya_Fukumoto.pdf)
 
-## JavaScript
-- [[JavaScript] URLを文字列結合で組み立てないために、url-cheatsheetを作った](https://efcl.info/2022/12/15/url-cheatsheet/)
-
 ## Job
 - [freee](https://jobs.freee.co.jp/#job_list)
 - [Github](https://github.com/about/careers)
@@ -253,16 +235,9 @@
 - [Speee](https://open.talentio.com/r/1/c/speee/pages/43246)
 - [デジタル庁](https://herp.careers/v1/digitalsaiyo/requisition-groups/906b6d65-b753-42ee-8860-5f1a56720bb4)
 
-## Law
-- [Wizard Bible事件から考えるサイバーセキュリティ](https://peaks.cc/books/wizard_bible_security)
-- [サイバーセキュリティ関係法令Q＆Aハンドブック](https://security-portal.nisc.go.jp/law_handbook/index.html)
-
 ## Log Management
 - [Best practices for reducing sensitive data blindspots and risk](https://www.datadoghq.com/ja/blog/sensitive-data-management-best-practices/)
 - [高度サイバー攻撃への対処におけるログの活用と分析方法](https://www.jpcert.or.jp/research/apt-loganalysis.html)
-
-## Machine Learning
-- [セキュリティエンジニアのための機械学習――AI技術によるサイバーセキュリティ対策入門](https://www.oreilly.co.jp/books/9784873119076/)
 
 ## Mail
 - [電子メール技術移転：メールプロトコル勉強会をチームで開催してみた](https://heartbeats.jp/hbblog/2022/12/email-protocol.html)
@@ -494,28 +469,10 @@
 ### Other
 - [Monad](https://www.monad.security/)
 
-## Uncategorized
-- [サイバー術 プロに学ぶサイバーセキュリティ](https://www.amazon.co.jp/dp/B09JSFTDCH/)
-- [サイバーセキュリティプログラミング](https://www.oreilly.co.jp/books/9784873119731/)
-
 ## Vulnerable App
 - [DVWS](https://github.com/interference-security/DVWS)
 - [RailsGoat](https://github.com/OWASP/railsgoat)
 - [TUDO](https://github.com/bmdyy/tudo)
-
-## Web
-- [安全なWebアプリケーションの作り方](https://wasbook.org/)
-- [web.dev 安全とセキュリティ](https://web.dev/secure/)
-- [安全なウェブサイトの作り方](https://www.ipa.go.jp/security/vuln/websecurity.html)
-- [Web セキュリティ研修 / GMO ペパボ 新卒研修 2021](https://speakerdeck.com/mrtc0/gmo-pepabo-xin-zu-yan-xiu-2021)
-- [サイボウズ セキュリティ 開運研修2022](https://speakerdeck.com/cybozuinsideout/security-2022)
-- [セキュリティ研修【ミクシィ22新卒技術研修】](https://speakerdeck.com/mixi_engineers/2022-security-training)
-- [mozilla Web Security](https://infosec.mozilla.org/guidelines/web_security.html)
-- [Origin 解体新書](https://zenn.dev/jxck/books/origin-anatomia)
-- [Cache 解体新書](https://zenn.dev/jxck/books/cache-anatomia)
-- [SPAセキュリティ超入門](https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022)
-- [リアルワールドバグハンティング――ハッキング事例から学ぶウェブの脆弱性](https://www.oreilly.co.jp/books/9784873119212/)
-- [フロントエンド開発のためのセキュリティ入門 知らなかったでは済まされない脆弱性対策の必須知識](https://www.shoeisha.co.jp/book/detail/9784798170602)
 
 ### HTTP
 - [HTTP/3入門 進化するHTTPの歩み](https://gihyo.jp/admin/serial/01/http3/0001?summary)
@@ -536,4 +493,3 @@
 ## Zero Trust
 - [ゼロトラスト移行のすゝめ](https://www.ipa.go.jp/icscoe/program/core_human_resource/final_project/zero-trust-mgn.html)
 - [ゼロトラストセキュリティ入門](https://www.nri-secure.co.jp/download/zerotrust-security)
-
