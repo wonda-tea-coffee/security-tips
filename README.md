@@ -31,6 +31,7 @@
 ## Authentication / Authorization
 ### General
 - [C向けサービスで 使われている認証方式と安全な使い方](https://speakerdeck.com/ritou/cxiang-kesabisude-shi-wareteiruren-zheng-fang-shi-toan-quan-nashi-ifang)
+- [Passwords Evolved: Authentication Guidance for the Modern Era](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/)
 
 ### OAuth
 - [OAuth 2.0 Security Best Current Practice draft-ietf-oauth-security-topics-19](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-19#section-4.2.4)
