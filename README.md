@@ -1,5 +1,6 @@
 # Security Tips
 - [Binary](./binary.md)
+- [Chaos Engineering](./chaos-engineering.md)
 - [CISO](./ciso.md)
 - [Cloud](./cloud.md)
 - [Cryptography](./cryptography.md)
@@ -7,12 +8,15 @@
 - [CTF](./ctf.md)
 - [DNS](./dns.md)
 - [Framework](./framework.md)
+- [Game](./game.md)
+- [General](./general.md)
 - [Hacking](./hacking.md)
 - [History](./history.md)
 - [JavaScript](./javascript.md)
 - [Law](./law.md)
 - [Machine Learning](./machine-learning.md)
 - [Malware](./malware.md)
+- [Red Team](./red-team.md)
 - [Study Platform](./study-platform.md)
 - [Tool](./tool.md)
 - [Web](./web.md)
@@ -71,9 +75,6 @@
 - [Github Code Search](https://cs.github.com/)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [AttackerKB](https://attackerkb.com/topics)
-
-## Chaos Engineering
-- [カオスエンジニアリング入門](https://www.amazon.co.jp/dp/B09VMP3B69/)
 
 ## Career
 - [セキュリティエンジニアへの道：私のキャリアチェンジ物語](https://engineering.mercari.com/blog/entry/2020-05-14-121008/)
@@ -190,12 +191,6 @@
 ### MySQL
 - [MySQLのデータ暗号化いろいろ](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174)
 
-## Game
-- [オンラインゲームセキュリティ](https://www.amazon.co.jp/dp/4781702511)
-
-## General
-- [イラスト図解式 この一冊で全部わかるセキュリティの基本](https://www.amazon.co.jp/dp/B0756SS7N3/)
-
 ## Github
 - [GitHubリポジトリにおけるレビュープロセスの統制](https://engineering.mercari.com/blog/entry/20211213-8f5f5a5aee/)
 - [GitHubセキュリティ Organization運用のベストプラクティス](https://zenn.dev/tmknom/books/github-organization-security)
@@ -268,12 +263,6 @@
 - [The Illustrated QUIC Connection](https://quic.ulfheim.net/)
 - [マスタリングTCP/IP 情報セキュリティ編](https://www.ohmsha.co.jp/book/9784274069215/)
 - [プロフェッショナルSSL/TLS](https://www.lambdanote.com/products/ssl-tls-ebook)
-
-## Ransomware
-- [ランサムウエアから会社を守る　～身代金支払いの是非から事前の防御計画まで](https://www.amazon.co.jp/dp/B0BMNZKN5J)
-
-## Red Team
-- [サイバーセキュリティ レッドチーム実践ガイド](https://www.amazon.co.jp/dp/B07MYSZ715/)
 
 ## Ruby / Rails
 - [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
