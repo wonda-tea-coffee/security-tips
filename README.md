@@ -16,6 +16,7 @@
 - [Law](./law.md)
 - [Machine Learning](./machine-learning.md)
 - [Malware](./malware.md)
+- [Python](./python.md)
 - [Red Team](./red-team.md)
 - [Study Platform](./study-platform.md)
 - [Tool](./tool.md)
