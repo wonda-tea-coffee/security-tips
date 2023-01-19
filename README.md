@@ -14,6 +14,7 @@
 - [History](./history.md)
 - [JavaScript](./javascript.md)
 - [Law](./law.md)
+- [License](./license_.md)
 - [Machine Learning](./machine-learning.md)
 - [Malware](./malware.md)
 - [Python](./python.md)
