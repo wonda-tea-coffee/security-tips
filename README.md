@@ -143,6 +143,7 @@
 - [Container Security Considerations: Security Best Practices and Common Threats](https://www.returnonsecurity.com/container-security-considerations/)
 - [実践 Linux コンテナ実行基盤セキュリティ](https://mrtc0.notion.site/Security-Camp-B6-81eb740553154a70aeef92f3455717bf)
 - [Keeping Docker secrets secure (even if you’re not using Kubernetes)](https://snyk.io/blog/keeping-docker-secrets-secure/)
+- [コンテナの作り方、壊し方](https://speakerdeck.com/mrtc0/container-structure-and-exploitation-method)
 
 ### Kubernetes
 - [脅威モデリングで考える Kubernetes セキュリティ](https://speakerdeck.com/mrtc0/cloudnative-days-tokyo-2021-number-cndt2021-number-cndt2021-b)
